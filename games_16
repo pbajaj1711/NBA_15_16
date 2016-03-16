@@ -1,0 +1,982 @@
+400828382,2016-01-02,Boston Celtics,97,Brooklyn,100
+400828400,2016-01-04,Brooklyn,94,Boston Celtics,103
+400828415,2016-01-06,Boston Celtics,94,Detroit,99
+400828424,2016-01-07,Chicago,101,Boston Celtics,92
+400828447,2016-01-10,Memphis,101,Boston Celtics,98
+400828458,2016-01-12,NY Knicks,120,Boston Celtics,114
+400828467,2016-01-13,Boston Celtics,103,Indiana,94
+400828482,2016-01-15,Boston Celtics,117,Phoenix,103
+400828491,2016-01-16,Washington,117,Boston Celtics,119
+400828510,2016-01-18,Dallas,118,Boston Celtics,113
+400828520,2016-01-20,Toronto,115,Boston Celtics,109
+400828533,2016-01-22,Boston Celtics,110,Chicago,101
+400861758,2016-01-24,Philadelphia,92,Boston Celtics,112
+400828555,2016-01-25,Washington,91,Boston Celtics,116
+400828572,2016-01-27,Boston Celtics,111,Denver,103
+400828585,2016-01-29,Boston Celtics,113,Orlando,94
+400828603,2016-01-31,Orlando,119,Boston Celtics,114
+400828617,2016-02-02,NY Knicks,89,Boston Celtics,97
+400828624,2016-02-03,Boston Celtics,102,Detroit,95
+400828642,2016-02-05,Cleveland,103,Boston Celtics,104
+400828660,2016-02-07,Boston Celtics,128,Sacramento,119
+400828673,2016-02-09,Milwaukee,112,Boston Celtics,111
+400828679,2016-02-10,Boston Celtics,139,Los Angeles,134
+400828704,2016-02-19,Utah,111,Boston Celtics,93
+400828712,2016-02-21,Denver,101,Boston Celtics,121
+400828725,2016-02-22,Minnesota,124,Boston Celtics,122
+400828743,2016-02-25,Boston Celtics,112,Milwaukee,107
+400828756,2016-02-27,Boston Celtics,101,Miami,89
+400828786,2016-03-02,Boston Celtics,116,Portland,93
+400828802,2016-03-04,Boston Celtics,105,NY Knicks,104
+400828809,2016-03-05,Cleveland,120,Boston Celtics,103
+400828840,2016-03-09,Boston Celtics,116,Memphis,96
+400828852,2016-03-11,Boston Celtics,98,Houston,102
+400828382,2016-01-02,Boston,97,Brooklyn Nets,100
+400828400,2016-01-04,Brooklyn Nets,94,Boston,103
+400828416,2016-01-06,Brooklyn Nets,74,Toronto,91
+400828428,2016-01-08,Brooklyn Nets,77,Orlando,83
+400828440,2016-01-09,Detroit,103,Brooklyn Nets,89
+400828453,2016-01-11,Brooklyn Nets,79,San Antonio,106
+400828466,2016-01-13,Brooklyn Nets,110,NY Knicks,104
+400828483,2016-01-15,Brooklyn Nets,104,Portland,116
+400828489,2016-01-16,Atlanta,114,Brooklyn Nets,86
+400828508,2016-01-18,Toronto,112,Brooklyn Nets,100
+400828518,2016-01-20,Brooklyn Nets,78,Cleveland,91
+400828534,2016-01-22,Brooklyn Nets,86,Utah,108
+400828551,2016-01-24,Brooklyn Nets,116,Oklahoma City,106
+400828565,2016-01-26,Brooklyn Nets,98,Miami,102
+400828589,2016-01-29,Dallas,91,Brooklyn Nets,79
+400828597,2016-01-30,New Orleans,105,Brooklyn Nets,103
+400828609,2016-02-01,Brooklyn Nets,100,Detroit,105
+400828625,2016-02-03,Brooklyn Nets,100,Indiana,114
+400828641,2016-02-05,Brooklyn Nets,128,Sacramento,119
+400828651,2016-02-06,Philadelphia,103,Brooklyn Nets,98
+400828665,2016-02-08,Brooklyn Nets,105,Denver,104
+400828680,2016-02-10,Brooklyn Nets,90,Memphis,109
+400828694,2016-02-19,Brooklyn Nets,109,NY Knicks,98
+400828714,2016-02-21,Brooklyn Nets,96,Charlotte,104
+400828731,2016-02-23,Portland,112,Brooklyn Nets,104
+400828745,2016-02-25,Phoenix,106,Brooklyn Nets,116
+400828763,2016-02-27,Utah,96,Brooklyn Nets,98
+400828783,2016-03-01,Los Angeles,107,Brooklyn Nets,101
+400828807,2016-03-04,Denver,120,Brooklyn Nets,121
+400828813,2016-03-05,Minnesota,132,Brooklyn Nets,118
+400828831,2016-03-08,Toronto,104,Brooklyn Nets,99
+400828851,2016-03-11,Philadelphia,95,Brooklyn Nets,89
+400828872,2016-03-13,Brooklyn Nets,100,Milwaukee,109
+400828380,2016-01-01,Chicago,108,New York Knicks,81
+400828393,2016-01-03,New York Knicks,111,Atlanta,97
+400828408,2016-01-05,Atlanta,101,New York Knicks,107
+400828412,2016-01-06,Miami,90,New York Knicks,98
+400828433,2016-01-08,San Antonio,100,New York Knicks,99
+400828449,2016-01-10,New York Knicks,100,Milwaukee,88
+400828458,2016-01-12,New York Knicks,120,Boston,114
+400828466,2016-01-13,Brooklyn,110,New York Knicks,104
+400828494,2016-01-16,Memphis,103,New York Knicks,95
+400828502,2016-01-18,New York Knicks,119,Philadelphia,113
+400828519,2016-01-20,New York Knicks,118,Utah,111
+400828535,2016-01-22,New York Knicks,88,Los Angeles,116
+400828542,2016-01-23,Charlotte,97,New York Knicks,84
+400828566,2016-01-26,New York Knicks,122,Oklahoma City,128
+400828581,2016-01-28,Toronto,103,New York Knicks,93
+400828587,2016-01-29,New York Knicks,102,Phoenix,84
+400828605,2016-01-31,New York Knicks,95,Golden State,116
+400828617,2016-02-02,New York Knicks,89,Boston,97
+400828633,2016-02-04,Detroit,111,New York Knicks,105
+400828643,2016-02-05,New York Knicks,85,Memphis,91
+400828657,2016-02-07,New York Knicks,96,Denver,101
+400828672,2016-02-09,New York Knicks,108,Washington,111
+400828694,2016-02-19,Brooklyn,109,New York Knicks,98
+400828708,2016-02-20,Minnesota,95,New York Knicks,103
+400828722,2016-02-22,New York Knicks,95,Toronto,122
+400828733,2016-02-24,Indiana,108,New York Knicks,105
+400828750,2016-02-26,New York Knicks,108,Orlando,95
+400828770,2016-02-28,New York Knicks,81,Miami,98
+400828780,2016-03-01,New York Knicks,85,Portland,104
+400828802,2016-03-04,Boston,105,New York Knicks,104
+400828810,2016-03-05,New York Knicks,102,Detroit,89
+400828833,2016-03-08,Denver,110,New York Knicks,94
+400828843,2016-03-09,Phoenix,97,New York Knicks,128
+400828859,2016-03-11,Los Angeles,101,New York Knicks,94
+400828874,2016-03-13,Los Angeles,87,New York Knicks,90
+400828381,2016-01-01,Los Angeles,93,Philadelphia 76ers,84
+400828392,2016-01-02,Los Angeles,130,Philadelphia 76ers,99
+400828399,2016-01-04,Philadelphia 76ers,109,Minnesota,99
+400828423,2016-01-07,Philadelphia 76ers,98,Atlanta,126
+400828441,2016-01-09,Philadelphia 76ers,95,Toronto,108
+400828446,2016-01-10,Philadelphia 76ers,85,Cleveland,95
+400828474,2016-01-14,Philadelphia 76ers,111,Chicago,115
+400828493,2016-01-16,Philadelphia 76ers,114,Portland,89
+400828502,2016-01-18,NY Knicks,119,Philadelphia 76ers,113
+400828516,2016-01-20,Orlando,87,Philadelphia 76ers,96
+400861758,2016-01-24,Philadelphia 76ers,92,Boston,112
+400828564,2016-01-26,Philadelphia 76ers,113,Phoenix,103
+400828573,2016-01-27,Detroit,110,Philadelphia 76ers,97
+400828594,2016-01-30,Philadelphia 76ers,105,Golden State,108
+400828623,2016-02-03,Philadelphia 76ers,86,Atlanta,124
+400828640,2016-02-05,Washington,106,Philadelphia 76ers,94
+400828651,2016-02-06,Philadelphia 76ers,103,Brooklyn,98
+400828664,2016-02-08,Philadelphia 76ers,92,Los Angeles,98
+400828678,2016-02-10,Philadelphia 76ers,110,Sacramento,114
+400828698,2016-02-19,New Orleans,121,Philadelphia 76ers,114
+400828717,2016-02-21,Dallas,129,Philadelphia 76ers,103
+400828727,2016-02-23,Philadelphia 76ers,115,Orlando,124
+400828734,2016-02-24,Detroit,111,Philadelphia 76ers,91
+400828749,2016-02-26,Philadelphia 76ers,94,Washington,103
+400828768,2016-02-28,Orlando,130,Philadelphia 76ers,116
+400828785,2016-03-02,Philadelphia 76ers,99,Charlotte,119
+400828801,2016-03-04,Philadelphia 76ers,102,Miami,112
+400828822,2016-03-06,Miami,103,Philadelphia 76ers,98
+400828838,2016-03-09,Philadelphia 76ers,104,Houston,118
+400828851,2016-03-11,Philadelphia 76ers,95,Brooklyn,89
+400828863,2016-03-12,Philadelphia 76ers,111,Detroit,125
+400828379,2016-01-01,Toronto Raptors,104,Charlotte,94
+400828394,2016-01-03,Toronto Raptors,113,Chicago,115
+400828398,2016-01-04,Cleveland,122,Toronto Raptors,100
+400828416,2016-01-06,Brooklyn,74,Toronto Raptors,91
+400828427,2016-01-08,Washington,88,Toronto Raptors,97
+400828441,2016-01-09,Philadelphia,95,Toronto Raptors,108
+400828475,2016-01-14,Orlando,103,Toronto Raptors,106
+400828508,2016-01-18,Toronto Raptors,112,Brooklyn,100
+400828520,2016-01-20,Toronto Raptors,115,Boston,109
+400828536,2016-01-22,Toronto Raptors,101,Miami,81
+400828553,2016-01-24,Toronto Raptors,112,Los Angeles,94
+400828567,2016-01-26,Toronto Raptors,106,Washington,89
+400828581,2016-01-28,Toronto Raptors,103,NY Knicks,93
+400828595,2016-01-30,Toronto Raptors,111,Detroit,107
+400828614,2016-02-01,Denver,112,Toronto Raptors,93
+400828619,2016-02-02,Phoenix,97,Toronto Raptors,104
+400828635,2016-02-04,Portland,103,Toronto Raptors,110
+400828666,2016-02-08,Detroit,89,Toronto Raptors,103
+400828684,2016-02-10,Minnesota,117,Toronto Raptors,112
+400828696,2016-02-19,Chicago,116,Toronto Raptors,106
+400828716,2016-02-21,Toronto Raptors,98,Memphis,85
+400828722,2016-02-22,NY Knicks,95,Toronto Raptors,122
+400828736,2016-02-24,Toronto Raptors,114,Minnesota,105
+400828751,2016-02-26,Toronto Raptors,99,Cleveland,97
+400828766,2016-02-28,Detroit,114,Toronto Raptors,101
+400828787,2016-03-02,Toronto Raptors,104,Utah,94
+400828803,2016-03-04,Toronto Raptors,117,Portland,115
+400828823,2016-03-06,Toronto Raptors,107,Houston,113
+400828831,2016-03-08,Toronto Raptors,104,Brooklyn,99
+400828846,2016-03-10,Toronto Raptors,104,Atlanta,96
+400828864,2016-03-12,Toronto Raptors,112,Miami,104
+400828391,2016-01-02,Golden State Warriors,111,Denver,108
+400828407,2016-01-04,Golden State Warriors,111,Charlotte,101
+400828411,2016-01-05,Los Angeles,88,Golden State Warriors,109
+400828435,2016-01-08,Portland,108,Golden State Warriors,128
+400828443,2016-01-09,Sacramento,116,Golden State Warriors,128
+400828455,2016-01-11,Golden State Warriors,111,Miami,103
+400828470,2016-01-13,Denver,112,Golden State Warriors,110
+400828479,2016-01-14,Golden State Warriors,116,Los Angeles,98
+400828492,2016-01-16,Detroit,113,Golden State Warriors,95
+400828509,2016-01-18,Cleveland,98,Golden State Warriors,132
+400828521,2016-01-20,Chicago,94,Golden State Warriors,125
+400828539,2016-01-22,Golden State Warriors,122,Indiana,110
+400828562,2016-01-25,Golden State Warriors,120,San Antonio,90
+400828578,2016-01-27,Golden State Warriors,127,Dallas,107
+400828594,2016-01-30,Philadelphia,105,Golden State Warriors,108
+400828605,2016-01-31,NY Knicks,95,Golden State Warriors,116
+400828626,2016-02-03,Washington,121,Golden State Warriors,134
+400828656,2016-02-06,Golden State Warriors,116,Oklahoma City,108
+400828675,2016-02-09,Golden State Warriors,123,Houston,110
+400828686,2016-02-10,Phoenix,104,Golden State Warriors,112
+400828702,2016-02-19,Portland,137,Golden State Warriors,105
+400828709,2016-02-20,Los Angeles,112,Golden State Warriors,115
+400828723,2016-02-22,Atlanta,92,Golden State Warriors,102
+400828735,2016-02-24,Miami,112,Golden State Warriors,118
+400828742,2016-02-25,Orlando,114,Golden State Warriors,130
+400828761,2016-02-27,Oklahoma City,118,Golden State Warriors,121
+400828782,2016-03-01,Golden State Warriors,109,Atlanta,105
+400828798,2016-03-03,Golden State Warriors,121,Oklahoma City,106
+400828818,2016-03-06,Los Angeles,112,Golden State Warriors,95
+400828830,2016-03-07,Golden State Warriors,119,Orlando,113
+400828845,2016-03-09,Golden State Warriors,115,Utah,94
+400828858,2016-03-11,Golden State Warriors,128,Portland,112
+400828868,2016-03-12,Golden State Warriors,123,Phoenix,116
+400828392,2016-01-02,Los Angeles Clippers,130,Philadelphia,99
+400828422,2016-01-06,Portland,98,Los Angeles Clippers,109
+400828437,2016-01-09,Los Angeles Clippers,97,Charlotte,83
+400828445,2016-01-10,Los Angeles Clippers,114,New Orleans,111
+400828473,2016-01-13,Los Angeles Clippers,104,Miami,90
+400828496,2016-01-16,Los Angeles Clippers,103,Sacramento,110
+400828511,2016-01-18,Los Angeles Clippers,140,Houston,132
+400828527,2016-01-21,Cleveland,115,Los Angeles Clippers,102
+400828535,2016-01-22,NY Knicks,88,Los Angeles Clippers,116
+400828553,2016-01-24,Toronto,112,Los Angeles Clippers,94
+400828563,2016-01-26,Indiana,89,Los Angeles Clippers,91
+400828574,2016-01-27,Atlanta,83,Los Angeles Clippers,85
+400828593,2016-01-29,Los Angeles Clippers,105,Los Angeles,93
+400828601,2016-01-31,Los Angeles Clippers,120,Chicago,93
+400828632,2016-02-03,Los Angeles Clippers,102,Minnesota,108
+400828639,2016-02-05,Orlando,93,Los Angeles Clippers,107
+400828659,2016-02-07,Miami,93,Los Angeles Clippers,100
+400828664,2016-02-08,Philadelphia,92,Los Angeles Clippers,98
+400828679,2016-02-10,Boston,139,Los Angeles Clippers,134
+400828691,2016-02-18,Los Angeles Clippers,105,San Antonio,86
+400828709,2016-02-20,Los Angeles Clippers,112,Golden State,115
+400828726,2016-02-22,Los Angeles Clippers,124,Phoenix,84
+400828740,2016-02-24,Los Angeles Clippers,81,Denver,87
+400828754,2016-02-26,Sacramento,107,Los Angeles Clippers,117
+400828794,2016-03-02,Los Angeles Clippers,103,Oklahoma City,98
+400828816,2016-03-05,Los Angeles Clippers,97,Atlanta,107
+400828829,2016-03-07,Dallas,90,Los Angeles Clippers,109
+400828842,2016-03-09,Oklahoma City,120,Los Angeles Clippers,108
+400828859,2016-03-11,Los Angeles Clippers,101,NY Knicks,94
+400828870,2016-03-13,Los Angeles Clippers,90,Cleveland,114
+400828381,2016-01-01,Los Angeles Lakers,93,Philadelphia,84
+400828397,2016-01-03,Los Angeles Lakers,97,Phoenix,77
+400828411,2016-01-05,Los Angeles Lakers,88,Golden State,109
+400828426,2016-01-07,Sacramento,118,Los Angeles Lakers,115
+400828436,2016-01-08,Los Angeles Lakers,113,Oklahoma City,117
+400828452,2016-01-10,Los Angeles Lakers,74,Utah,86
+400828463,2016-01-12,Los Angeles Lakers,95,New Orleans,91
+400828479,2016-01-14,Golden State,116,Los Angeles Lakers,98
+400828495,2016-01-16,Utah,109,Los Angeles Lakers,82
+400828501,2016-01-17,Los Angeles Lakers,95,Houston,112
+400828525,2016-01-20,Los Angeles Lakers,93,Sacramento,112
+400828540,2016-01-22,Los Angeles Lakers,95,San Antonio,108
+400828549,2016-01-23,Portland,121,Los Angeles Lakers,103
+400828570,2016-01-26,Los Angeles Lakers,90,Dallas,92
+400828584,2016-01-28,Los Angeles Lakers,91,Chicago,114
+400828593,2016-01-29,Los Angeles,105,Los Angeles Lakers,93
+400828607,2016-01-31,Los Angeles Lakers,82,Charlotte,101
+400828621,2016-02-02,Los Angeles Lakers,119,Minnesota,115
+400828634,2016-02-04,New Orleans,96,Los Angeles Lakers,99
+400828654,2016-02-06,San Antonio,106,Los Angeles Lakers,102
+400828663,2016-02-08,Indiana,89,Los Angeles Lakers,87
+400828682,2016-02-10,Cleveland,120,Los Angeles Lakers,111
+400828705,2016-02-19,Los Angeles Lakers,113,San Antonio,119
+400828718,2016-02-21,Chicago,126,Los Angeles Lakers,115
+400828724,2016-02-22,Milwaukee,108,Los Angeles Lakers,101
+400828738,2016-02-24,Memphis,128,Los Angeles Lakers,119
+400828755,2016-02-26,Los Angeles Lakers,95,Memphis,112
+400828783,2016-03-01,Los Angeles Lakers,107,Brooklyn,101
+400828793,2016-03-02,Denver,117,Los Angeles Lakers,107
+400828808,2016-03-04,Los Angeles Lakers,77,Atlanta,106
+400828818,2016-03-06,Los Angeles Lakers,112,Golden State,95
+400828836,2016-03-08,Los Angeles Lakers,107,Orlando,98
+400828849,2016-03-10,Los Angeles Lakers,108,Cleveland,120
+400828874,2016-03-13,Los Angeles Lakers,87,NY Knicks,90
+400828383,2016-01-02,Sacramento,142,Phoenix Suns,119
+400828397,2016-01-03,Los Angeles,97,Phoenix Suns,77
+400828420,2016-01-06,Phoenix Suns,111,Charlotte,102
+400828434,2016-01-08,Phoenix Suns,95,Miami,103
+400828456,2016-01-12,Indiana,116,Phoenix Suns,97
+400828482,2016-01-15,Boston,117,Phoenix Suns,103
+400828497,2016-01-17,Minnesota,117,Phoenix Suns,87
+400828515,2016-01-19,Phoenix Suns,94,Indiana,97
+400828531,2016-01-21,Phoenix Suns,89,San Antonio,117
+400828547,2016-01-23,Phoenix Suns,98,Atlanta,95
+400828564,2016-01-26,Philadelphia,113,Phoenix Suns,103
+400828571,2016-01-27,Cleveland,115,Phoenix Suns,93
+400828587,2016-01-29,NY Knicks,102,Phoenix Suns,84
+400828604,2016-01-31,Dallas,91,Phoenix Suns,78
+400828619,2016-02-02,Phoenix Suns,97,Toronto,104
+400828636,2016-02-04,Phoenix Suns,105,Houston,111
+400828655,2016-02-06,Phoenix Suns,89,Utah,98
+400828670,2016-02-08,Phoenix Suns,106,Oklahoma City,122
+400828686,2016-02-10,Phoenix Suns,104,Golden State,112
+400828701,2016-02-19,Phoenix Suns,100,Houston,116
+400828713,2016-02-21,Phoenix Suns,111,San Antonio,118
+400828726,2016-02-22,Los Angeles,124,Phoenix Suns,84
+400828745,2016-02-25,Phoenix Suns,106,Brooklyn,116
+400828762,2016-02-27,Phoenix Suns,111,Memphis,106
+400828778,2016-03-01,Charlotte,126,Phoenix Suns,92
+400828795,2016-03-03,Miami,108,Phoenix Suns,92
+400828800,2016-03-04,Orlando,84,Phoenix Suns,102
+400828819,2016-03-06,Memphis,100,Phoenix Suns,109
+400828843,2016-03-09,Phoenix Suns,97,NY Knicks,128
+400828848,2016-03-10,Denver,116,Phoenix Suns,98
+400828868,2016-03-12,Golden State,123,Phoenix Suns,116
+400828383,2016-01-02,Sacramento Kings,142,Phoenix,119
+400828404,2016-01-04,Oklahoma City,104,Sacramento Kings,116
+400828410,2016-01-05,Dallas,117,Sacramento Kings,116
+400828426,2016-01-07,Sacramento Kings,118,Los Angeles,115
+400828443,2016-01-09,Sacramento Kings,116,Golden State,128
+400828472,2016-01-13,Sacramento Kings,97,New Orleans,109
+400828478,2016-01-14,Utah,101,Sacramento Kings,103
+400828496,2016-01-16,Los Angeles,103,Sacramento Kings,110
+400828525,2016-01-20,Los Angeles,93,Sacramento Kings,112
+400828530,2016-01-21,Sacramento Kings,91,Atlanta,88
+400828550,2016-01-23,Sacramento Kings,108,Indiana,97
+400828561,2016-01-25,Sacramento Kings,128,Charlotte,129
+400828569,2016-01-26,Portland,112,Sacramento Kings,97
+400828583,2016-01-28,New Orleans,114,Sacramento Kings,105
+400828599,2016-01-30,Memphis,121,Sacramento Kings,117
+400828616,2016-02-01,Sacramento Kings,111,Milwaukee,104
+400828631,2016-02-03,Sacramento Kings,102,Chicago,107
+400828641,2016-02-05,Brooklyn,128,Sacramento Kings,119
+400828660,2016-02-07,Boston,128,Sacramento Kings,119
+400828662,2016-02-08,Cleveland,120,Sacramento Kings,100
+400828678,2016-02-10,Philadelphia,110,Sacramento Kings,114
+400828703,2016-02-19,Sacramento Kings,116,Denver,110
+400828729,2016-02-23,Denver,110,Sacramento Kings,114
+400828741,2016-02-24,Sacramento Kings,92,San Antonio,108
+400828754,2016-02-26,Sacramento Kings,107,Los Angeles,117
+400828789,2016-03-02,Memphis,104,Sacramento Kings,98
+400828797,2016-03-03,Dallas,101,Sacramento Kings,104
+400828815,2016-03-05,San Antonio,104,Sacramento Kings,94
+400828828,2016-03-07,New Orleans,115,Sacramento Kings,112
+400828844,2016-03-09,Sacramento Kings,111,Cleveland,120
+400828857,2016-03-11,Sacramento Kings,100,Orlando,107
+400828873,2016-03-13,Sacramento Kings,99,Utah,108
+400828380,2016-01-01,Chicago Bulls,108,NY Knicks,81
+400828394,2016-01-03,Toronto,113,Chicago Bulls,115
+400828409,2016-01-05,Chicago Bulls,117,Milwaukee,106
+400828424,2016-01-07,Chicago Bulls,101,Boston,92
+400828438,2016-01-09,Atlanta,120,Chicago Bulls,105
+400828454,2016-01-11,Chicago Bulls,100,Washington,114
+400828460,2016-01-12,Milwaukee,106,Chicago Bulls,101
+400828474,2016-01-14,Philadelphia,111,Chicago Bulls,115
+400828484,2016-01-15,Chicago Bulls,77,Dallas,83
+400828506,2016-01-18,Detroit,101,Chicago Bulls,111
+400828521,2016-01-20,Chicago Bulls,94,Golden State,125
+400828533,2016-01-22,Boston,110,Chicago Bulls,101
+400828546,2016-01-23,Cleveland,83,Chicago Bulls,96
+400828556,2016-01-25,Chicago Bulls,84,Miami,89
+400828584,2016-01-28,Los Angeles,91,Chicago Bulls,114
+400828601,2016-01-31,Los Angeles,120,Chicago Bulls,93
+400828615,2016-02-01,Utah,105,Chicago Bulls,96
+400828631,2016-02-03,Sacramento,102,Chicago Bulls,107
+400828644,2016-02-05,Denver,115,Chicago Bulls,110
+400828653,2016-02-06,Minnesota,112,Chicago Bulls,105
+400828661,2016-02-08,Charlotte,108,Chicago Bulls,91
+400828683,2016-02-10,Chicago Bulls,90,Atlanta,113
+400828690,2016-02-18,Cleveland,106,Chicago Bulls,95
+400828696,2016-02-19,Chicago Bulls,116,Toronto,106
+400828718,2016-02-21,Chicago Bulls,126,Los Angeles,115
+400828737,2016-02-24,Chicago Bulls,109,Washington,104
+400828752,2016-02-26,Atlanta,103,Chicago Bulls,88
+400828758,2016-02-27,Chicago Bulls,95,Portland,103
+400828779,2016-03-01,Miami,129,Chicago Bulls,111
+400828784,2016-03-02,Orlando,102,Chicago Bulls,89
+400828814,2016-03-05,Chicago Bulls,108,Houston,100
+400828827,2016-03-07,Chicago Bulls,100,Milwaukee,90
+400828847,2016-03-10,San Antonio,109,Chicago Bulls,101
+400828853,2016-03-11,Chicago Bulls,96,Miami,118
+400828386,2016-01-02,Cleveland Cavaliers,104,Orlando,79
+400828398,2016-01-04,Cleveland Cavaliers,122,Toronto,100
+400828414,2016-01-06,Washington,115,Cleveland Cavaliers,121
+400828430,2016-01-08,Minnesota,99,Cleveland Cavaliers,125
+400828446,2016-01-10,Philadelphia,85,Cleveland Cavaliers,95
+400828462,2016-01-12,Dallas,107,Cleveland Cavaliers,110
+400828477,2016-01-14,San Antonio,99,Cleveland Cavaliers,95
+400828488,2016-01-15,Houston,77,Cleveland Cavaliers,91
+400828509,2016-01-18,Cleveland Cavaliers,98,Golden State,132
+400828518,2016-01-20,Brooklyn,78,Cleveland Cavaliers,91
+400828527,2016-01-21,Cleveland Cavaliers,115,Los Angeles,102
+400828546,2016-01-23,Cleveland Cavaliers,83,Chicago,96
+400828554,2016-01-25,Cleveland Cavaliers,114,Minnesota,107
+400828571,2016-01-27,Cleveland Cavaliers,115,Phoenix,93
+400828586,2016-01-29,Detroit,106,Cleveland Cavaliers,114
+400828600,2016-01-30,Cleveland Cavaliers,117,San Antonio,103
+400828608,2016-02-01,Indiana,106,Cleveland Cavaliers,111
+400828622,2016-02-03,Charlotte,106,Cleveland Cavaliers,97
+400828642,2016-02-05,Cleveland Cavaliers,103,Boston,104
+400828650,2016-02-06,Cleveland Cavaliers,99,New Orleans,84
+400828662,2016-02-08,Cleveland Cavaliers,120,Sacramento,100
+400828682,2016-02-10,Cleveland Cavaliers,120,Los Angeles,111
+400828690,2016-02-18,Cleveland Cavaliers,106,Chicago,95
+400828711,2016-02-21,Oklahoma City,92,Cleveland Cavaliers,115
+400828720,2016-02-22,Cleveland Cavaliers,88,Detroit,96
+400828732,2016-02-24,Cleveland Cavaliers,114,Charlotte,103
+400828751,2016-02-26,Toronto,99,Cleveland Cavaliers,97
+400828764,2016-02-28,Washington,113,Cleveland Cavaliers,99
+400828804,2016-03-04,Cleveland Cavaliers,108,Washington,83
+400828809,2016-03-05,Cleveland Cavaliers,120,Boston,103
+400828825,2016-03-07,Cleveland Cavaliers,103,Memphis,106
+400828844,2016-03-09,Sacramento,111,Cleveland Cavaliers,120
+400828849,2016-03-10,Los Angeles,108,Cleveland Cavaliers,120
+400828870,2016-03-13,Los Angeles,90,Cleveland Cavaliers,114
+400828385,2016-01-02,Indiana,94,Detroit Pistons,82
+400828401,2016-01-04,Detroit Pistons,115,Orlando,89
+400828415,2016-01-06,Boston,94,Detroit Pistons,99
+400828440,2016-01-09,Detroit Pistons,103,Brooklyn,89
+400828457,2016-01-12,Detroit Pistons,99,San Antonio,109
+400828476,2016-01-14,Memphis,103,Detroit Pistons,101
+400828492,2016-01-16,Detroit Pistons,113,Golden State,95
+400828506,2016-01-18,Detroit Pistons,101,Chicago,111
+400828522,2016-01-20,Houston,114,Detroit Pistons,123
+400828528,2016-01-21,New Orleans,115,Detroit Pistons,99
+400828548,2016-01-23,Denver,104,Detroit Pistons,101
+400828560,2016-01-25,Utah,92,Detroit Pistons,95
+400828573,2016-01-27,Detroit Pistons,110,Philadelphia,97
+400828586,2016-01-29,Detroit Pistons,106,Cleveland,114
+400828595,2016-01-30,Toronto,111,Detroit Pistons,107
+400828609,2016-02-01,Brooklyn,100,Detroit Pistons,105
+400828624,2016-02-03,Boston,102,Detroit Pistons,95
+400828633,2016-02-04,Detroit Pistons,111,NY Knicks,105
+400828649,2016-02-06,Indiana,112,Detroit Pistons,104
+400828666,2016-02-08,Detroit Pistons,89,Toronto,103
+400828681,2016-02-10,Detroit Pistons,92,Denver,103
+400828693,2016-02-19,Washington,98,Detroit Pistons,86
+400828710,2016-02-21,Detroit Pistons,106,New Orleans,111
+400828720,2016-02-22,Cleveland,88,Detroit Pistons,96
+400828734,2016-02-24,Detroit Pistons,111,Philadelphia,91
+400828760,2016-02-27,Milwaukee,91,Detroit Pistons,102
+400828766,2016-02-28,Detroit Pistons,114,Toronto,101
+400828792,2016-03-02,San Antonio,97,Detroit Pistons,81
+400828810,2016-03-05,NY Knicks,102,Detroit Pistons,89
+400828821,2016-03-06,Detroit Pistons,123,Portland,103
+400828841,2016-03-09,Dallas,96,Detroit Pistons,102
+400828850,2016-03-11,Charlotte,118,Detroit Pistons,103
+400828863,2016-03-12,Philadelphia,111,Detroit Pistons,125
+400828385,2016-01-02,Indiana Pacers,94,Detroit,82
+400828402,2016-01-04,Miami,103,Indiana Pacers,100
+400828413,2016-01-06,Orlando,86,Indiana Pacers,95
+400828431,2016-01-08,New Orleans,86,Indiana Pacers,91
+400828448,2016-01-10,Houston,107,Indiana Pacers,103
+400828456,2016-01-12,Indiana Pacers,116,Phoenix,97
+400828467,2016-01-13,Boston,103,Indiana Pacers,94
+400828480,2016-01-15,Indiana Pacers,104,Washington,118
+400828500,2016-01-17,Denver,129,Indiana Pacers,126
+400828515,2016-01-19,Phoenix,94,Indiana Pacers,97
+400828539,2016-01-22,Golden State,122,Indiana Pacers,110
+400828550,2016-01-23,Sacramento,108,Indiana Pacers,97
+400828563,2016-01-26,Indiana Pacers,89,Los Angeles,91
+400828579,2016-01-28,Indiana Pacers,111,Atlanta,92
+400828596,2016-01-30,Indiana Pacers,109,Denver,105
+400828608,2016-02-01,Indiana Pacers,106,Cleveland,111
+400828625,2016-02-03,Brooklyn,100,Indiana Pacers,114
+400828637,2016-02-05,Atlanta,102,Indiana Pacers,96
+400828649,2016-02-06,Indiana Pacers,112,Detroit,104
+400828663,2016-02-08,Indiana Pacers,89,Los Angeles,87
+400828676,2016-02-10,Indiana Pacers,95,Charlotte,117
+400828699,2016-02-19,Oklahoma City,98,Indiana Pacers,101
+400828715,2016-02-21,Orlando,102,Indiana Pacers,105
+400828721,2016-02-22,Miami,101,Indiana Pacers,93
+400828733,2016-02-24,Indiana Pacers,108,NY Knicks,105
+400828748,2016-02-26,Indiana Pacers,95,Charlotte,96
+400828767,2016-02-28,Indiana Pacers,102,Portland,111
+400828790,2016-03-02,Milwaukee,99,Indiana Pacers,104
+400828799,2016-03-04,Charlotte,108,Indiana Pacers,101
+400828811,2016-03-05,Washington,99,Indiana Pacers,100
+400828826,2016-03-07,Indiana Pacers,99,San Antonio,91
+400828860,2016-03-12,Dallas,105,Indiana Pacers,112
+400828871,2016-03-13,Atlanta,104,Indiana Pacers,75
+400828387,2016-01-02,Minnesota,85,Milwaukee Bucks,95
+400828403,2016-01-04,Milwaukee Bucks,98,San Antonio,123
+400828409,2016-01-05,Chicago,117,Milwaukee Bucks,106
+400828432,2016-01-08,Milwaukee Bucks,96,Dallas,95
+400828449,2016-01-10,NY Knicks,100,Milwaukee Bucks,88
+400828460,2016-01-12,Milwaukee Bucks,106,Chicago,101
+400828465,2016-01-13,Washington,106,Milwaukee Bucks,101
+400828486,2016-01-15,Milwaukee Bucks,108,Atlanta,101
+400828490,2016-01-16,Charlotte,92,Milwaukee Bucks,105
+400828512,2016-01-19,Miami,79,Milwaukee Bucks,91
+400828537,2016-01-22,Houston,102,Milwaukee Bucks,98
+400828544,2016-01-23,New Orleans,116,Milwaukee Bucks,99
+400828568,2016-01-26,Milwaukee Bucks,107,Orlando,100
+400828582,2016-01-28,Memphis,103,Milwaukee Bucks,83
+400828590,2016-01-29,Milwaukee Bucks,103,Miami,107
+400828616,2016-02-01,Sacramento,111,Milwaukee Bucks,104
+400828620,2016-02-02,Portland,107,Milwaukee Bucks,95
+400828645,2016-02-05,Utah,84,Milwaukee Bucks,81
+400828673,2016-02-09,Milwaukee Bucks,112,Boston,111
+400828688,2016-02-11,Milwaukee Bucks,99,Washington,92
+400828700,2016-02-19,Milwaukee Bucks,95,Charlotte,98
+400828706,2016-02-20,Atlanta,109,Milwaukee Bucks,117
+400828724,2016-02-22,Milwaukee Bucks,108,Los Angeles,101
+400828743,2016-02-25,Boston,112,Milwaukee Bucks,107
+400828760,2016-02-27,Milwaukee Bucks,91,Detroit,102
+400828790,2016-03-02,Milwaukee Bucks,99,Indiana,104
+400828806,2016-03-04,Milwaukee Bucks,116,Minnesota,101
+400828817,2016-03-06,Milwaukee Bucks,96,Oklahoma City,104
+400828827,2016-03-07,Chicago,100,Milwaukee Bucks,90
+400828839,2016-03-09,Milwaukee Bucks,114,Miami,108
+400828865,2016-03-12,Milwaukee Bucks,103,New Orleans,92
+400828872,2016-03-13,Brooklyn,100,Milwaukee Bucks,109
+400828378,2016-01-01,Miami,106,Dallas Mavericks,82
+400828388,2016-01-02,Dallas Mavericks,98,New Orleans,105
+400828410,2016-01-05,Dallas Mavericks,117,Sacramento,116
+400828418,2016-01-06,New Orleans,91,Dallas Mavericks,100
+400828432,2016-01-08,Milwaukee,96,Dallas Mavericks,95
+400828444,2016-01-10,Minnesota,87,Dallas Mavericks,93
+400828462,2016-01-12,Dallas Mavericks,107,Cleveland,110
+400828469,2016-01-13,Oklahoma City,108,Dallas Mavericks,89
+400828484,2016-01-15,Chicago,77,Dallas Mavericks,83
+400828499,2016-01-17,San Antonio,112,Dallas Mavericks,83
+400828510,2016-01-18,Dallas Mavericks,118,Boston,113
+400828524,2016-01-20,Dallas Mavericks,106,Minnesota,94
+400828538,2016-01-22,Dallas Mavericks,106,Oklahoma City,109
+400828552,2016-01-24,Houston,115,Dallas Mavericks,104
+400828570,2016-01-26,Los Angeles,90,Dallas Mavericks,92
+400828578,2016-01-27,Golden State,127,Dallas Mavericks,107
+400828589,2016-01-29,Dallas Mavericks,91,Brooklyn,79
+400828604,2016-01-31,Dallas Mavericks,91,Phoenix,78
+400828610,2016-02-01,Atlanta,112,Dallas Mavericks,97
+400828628,2016-02-03,Dallas Mavericks,90,Miami,93
+400828646,2016-02-05,Dallas Mavericks,90,San Antonio,116
+400828652,2016-02-06,Memphis,110,Dallas Mavericks,114
+400828674,2016-02-09,Dallas Mavericks,119,Utah,121
+400828692,2016-02-19,Orlando,110,Dallas Mavericks,104
+400828717,2016-02-21,Dallas Mavericks,129,Philadelphia,103
+400828739,2016-02-24,Dallas Mavericks,103,Oklahoma City,116
+400828753,2016-02-26,Dallas Mavericks,122,Denver,116
+400828769,2016-02-28,Dallas Mavericks,128,Minnesota,101
+400828781,2016-03-01,Dallas Mavericks,121,Orlando,108
+400828797,2016-03-03,Dallas Mavericks,101,Sacramento,104
+400828820,2016-03-06,Denver,116,Dallas Mavericks,114
+400828829,2016-03-07,Dallas Mavericks,90,Los Angeles,109
+400828841,2016-03-09,Dallas Mavericks,96,Detroit,102
+400828860,2016-03-12,Dallas Mavericks,105,Indiana,112
+400828389,2016-01-02,San Antonio,121,Houston Rockets,103
+400828405,2016-01-04,Utah,91,Houston Rockets,93
+400828425,2016-01-07,Houston Rockets,103,Utah,94
+400828448,2016-01-10,Houston Rockets,107,Indiana,103
+400828459,2016-01-12,Memphis,91,Houston Rockets,107
+400828468,2016-01-13,Houston Rockets,107,Minnesota,104
+400828488,2016-01-15,Houston Rockets,77,Cleveland,91
+400828501,2016-01-17,Los Angeles,95,Houston Rockets,112
+400828511,2016-01-18,Los Angeles,140,Houston Rockets,132
+400828522,2016-01-20,Houston Rockets,114,Detroit,123
+400828537,2016-01-22,Houston Rockets,102,Milwaukee,98
+400828552,2016-01-24,Houston Rockets,115,Dallas,104
+400828558,2016-01-25,New Orleans,111,Houston Rockets,112
+400828576,2016-01-27,San Antonio,130,Houston Rockets,99
+400828588,2016-01-29,Oklahoma City,116,Houston Rockets,108
+400828598,2016-01-30,Houston Rockets,122,Washington,123
+400828618,2016-02-02,Houston Rockets,115,Miami,102
+400828636,2016-02-04,Phoenix,105,Houston Rockets,111
+400828647,2016-02-06,Houston Rockets,79,Portland,96
+400828675,2016-02-09,Golden State,123,Houston Rockets,110
+400828687,2016-02-10,Portland,116,Houston Rockets,103
+400828701,2016-02-19,Phoenix,100,Houston Rockets,116
+400828730,2016-02-23,Utah,117,Houston Rockets,114
+400828746,2016-02-25,Portland,105,Houston Rockets,119
+400828759,2016-02-27,Houston Rockets,94,San Antonio,104
+400828788,2016-03-02,Houston Rockets,100,New Orleans,95
+400828814,2016-03-05,Chicago,108,Houston Rockets,100
+400828823,2016-03-06,Toronto,107,Houston Rockets,113
+400828838,2016-03-09,Philadelphia,104,Houston Rockets,118
+400828852,2016-03-11,Boston,98,Houston Rockets,102
+400828862,2016-03-12,Charlotte,125,Houston Rockets,109
+400828390,2016-01-02,Utah,92,Memphis Grizzlies,87
+400828406,2016-01-04,Portland,78,Memphis Grizzlies,91
+400828421,2016-01-06,Oklahoma City,112,Memphis Grizzlies,94
+400828429,2016-01-08,Memphis Grizzlies,91,Denver,84
+400828447,2016-01-10,Memphis Grizzlies,101,Boston,98
+400828459,2016-01-12,Memphis Grizzlies,91,Houston,107
+400828476,2016-01-14,Memphis Grizzlies,103,Detroit,101
+400828494,2016-01-16,Memphis Grizzlies,103,NY Knicks,95
+400828505,2016-01-18,Memphis Grizzlies,101,New Orleans,99
+400828529,2016-01-21,Denver,101,Memphis Grizzlies,102
+400828545,2016-01-23,Minnesota,106,Memphis Grizzlies,101
+400828557,2016-01-25,Memphis Grizzlies,108,Orlando,102
+400828582,2016-01-28,Memphis Grizzlies,103,Milwaukee,83
+400828599,2016-01-30,Memphis Grizzlies,121,Sacramento,117
+400828611,2016-02-01,New Orleans,95,Memphis Grizzlies,110
+400828643,2016-02-05,NY Knicks,85,Memphis Grizzlies,91
+400828652,2016-02-06,Memphis Grizzlies,110,Dallas,114
+400828668,2016-02-08,Memphis Grizzlies,106,Portland,112
+400828680,2016-02-10,Brooklyn,90,Memphis Grizzlies,109
+400828697,2016-02-19,Memphis Grizzlies,109,Minnesota,104
+400828716,2016-02-21,Toronto,98,Memphis Grizzlies,85
+400828738,2016-02-24,Memphis Grizzlies,128,Los Angeles,119
+400828755,2016-02-26,Los Angeles,95,Memphis Grizzlies,112
+400828762,2016-02-27,Phoenix,111,Memphis Grizzlies,106
+400828789,2016-03-02,Memphis Grizzlies,104,Sacramento,98
+400828805,2016-03-04,Memphis Grizzlies,94,Utah,88
+400828819,2016-03-06,Memphis Grizzlies,100,Phoenix,109
+400828825,2016-03-07,Cleveland,103,Memphis Grizzlies,106
+400828840,2016-03-09,Boston,116,Memphis Grizzlies,96
+400828854,2016-03-11,Memphis Grizzlies,121,New Orleans,114
+400828861,2016-03-12,Atlanta,95,Memphis Grizzlies,83
+400828388,2016-01-02,Dallas,98,New Orleans Pelicans,105
+400828418,2016-01-06,New Orleans Pelicans,91,Dallas,100
+400828431,2016-01-08,New Orleans Pelicans,86,Indiana,91
+400828445,2016-01-10,Los Angeles,114,New Orleans Pelicans,111
+400828463,2016-01-12,Los Angeles,95,New Orleans Pelicans,91
+400828472,2016-01-13,Sacramento,97,New Orleans Pelicans,109
+400828485,2016-01-15,New Orleans Pelicans,109,Charlotte,107
+400828505,2016-01-18,Memphis,101,New Orleans Pelicans,99
+400828513,2016-01-19,New Orleans Pelicans,114,Minnesota,99
+400828528,2016-01-21,New Orleans Pelicans,115,Detroit,99
+400828544,2016-01-23,New Orleans Pelicans,116,Milwaukee,99
+400828558,2016-01-25,New Orleans Pelicans,111,Houston,112
+400828583,2016-01-28,New Orleans Pelicans,114,Sacramento,105
+400828597,2016-01-30,New Orleans Pelicans,105,Brooklyn,103
+400828611,2016-02-01,New Orleans Pelicans,95,Memphis,110
+400828629,2016-02-03,San Antonio,110,New Orleans Pelicans,97
+400828634,2016-02-04,New Orleans Pelicans,96,Los Angeles,99
+400828650,2016-02-06,Cleveland,99,New Orleans Pelicans,84
+400828669,2016-02-08,Minnesota,102,New Orleans Pelicans,116
+400828685,2016-02-10,New Orleans Pelicans,100,Utah,96
+400828689,2016-02-11,Oklahoma City,121,New Orleans Pelicans,95
+400828698,2016-02-19,New Orleans Pelicans,121,Philadelphia,114
+400828710,2016-02-21,Detroit,106,New Orleans Pelicans,111
+400828728,2016-02-23,Washington,109,New Orleans Pelicans,89
+400828744,2016-02-25,New Orleans Pelicans,123,Oklahoma City,119
+400828757,2016-02-27,New Orleans Pelicans,110,Minnesota,112
+400828788,2016-03-02,Houston,100,New Orleans Pelicans,95
+400828796,2016-03-03,New Orleans Pelicans,86,San Antonio,94
+400828812,2016-03-05,New Orleans Pelicans,94,Utah,106
+400828828,2016-03-07,New Orleans Pelicans,115,Sacramento,112
+400828837,2016-03-09,Charlotte,122,New Orleans Pelicans,113
+400828854,2016-03-11,Memphis,121,New Orleans Pelicans,114
+400828865,2016-03-12,Milwaukee,103,New Orleans Pelicans,92
+400828389,2016-01-02,San Antonio Spurs,121,Houston,103
+400828403,2016-01-04,Milwaukee,98,San Antonio Spurs,123
+400828419,2016-01-06,San Antonio Spurs,123,Utah,98
+400828433,2016-01-08,San Antonio Spurs,100,NY Knicks,99
+400828453,2016-01-11,Brooklyn,79,San Antonio Spurs,106
+400828457,2016-01-12,Detroit,99,San Antonio Spurs,109
+400828477,2016-01-14,San Antonio Spurs,99,Cleveland,95
+400828499,2016-01-17,San Antonio Spurs,112,Dallas,83
+400828531,2016-01-21,Phoenix,89,San Antonio Spurs,117
+400828540,2016-01-22,Los Angeles,95,San Antonio Spurs,108
+400828562,2016-01-25,Golden State,120,San Antonio Spurs,90
+400828576,2016-01-27,San Antonio Spurs,130,Houston,99
+400828600,2016-01-30,Cleveland,117,San Antonio Spurs,103
+400828613,2016-02-01,San Antonio Spurs,107,Orlando,92
+400828629,2016-02-03,San Antonio Spurs,110,New Orleans,97
+400828646,2016-02-05,Dallas,90,San Antonio Spurs,116
+400828654,2016-02-06,San Antonio Spurs,106,Los Angeles,102
+400828671,2016-02-09,Miami,101,San Antonio Spurs,119
+400828677,2016-02-10,Orlando,96,San Antonio Spurs,98
+400828691,2016-02-18,Los Angeles,105,San Antonio Spurs,86
+400828705,2016-02-19,Los Angeles,113,San Antonio Spurs,119
+400828713,2016-02-21,Phoenix,111,San Antonio Spurs,118
+400828741,2016-02-24,Sacramento,92,San Antonio Spurs,108
+400828747,2016-02-25,Utah,78,San Antonio Spurs,96
+400828759,2016-02-27,Houston,94,San Antonio Spurs,104
+400828792,2016-03-02,San Antonio Spurs,97,Detroit,81
+400828796,2016-03-03,New Orleans,86,San Antonio Spurs,94
+400828815,2016-03-05,San Antonio Spurs,104,Sacramento,94
+400828826,2016-03-07,Indiana,99,San Antonio Spurs,91
+400828832,2016-03-08,Minnesota,91,San Antonio Spurs,116
+400828847,2016-03-10,San Antonio Spurs,109,Chicago,101
+400828866,2016-03-12,San Antonio Spurs,93,Oklahoma City,85
+400828393,2016-01-03,NY Knicks,111,Atlanta Hawks,97
+400828408,2016-01-05,Atlanta Hawks,101,NY Knicks,107
+400828423,2016-01-07,Philadelphia,98,Atlanta Hawks,126
+400828438,2016-01-09,Atlanta Hawks,120,Chicago,105
+400828464,2016-01-13,Charlotte,107,Atlanta Hawks,84
+400828486,2016-01-15,Milwaukee,108,Atlanta Hawks,101
+400828489,2016-01-16,Atlanta Hawks,114,Brooklyn,86
+400828507,2016-01-18,Atlanta Hawks,98,Orlando,81
+400828526,2016-01-20,Portland,98,Atlanta Hawks,104
+400828530,2016-01-21,Sacramento,91,Atlanta Hawks,88
+400828547,2016-01-23,Phoenix,98,Atlanta Hawks,95
+400828559,2016-01-25,Denver,105,Atlanta Hawks,119
+400828574,2016-01-27,Atlanta Hawks,83,Los Angeles,85
+400828579,2016-01-28,Indiana,111,Atlanta Hawks,92
+400828602,2016-01-31,Miami,105,Atlanta Hawks,87
+400828610,2016-02-01,Atlanta Hawks,112,Dallas,97
+400828623,2016-02-03,Philadelphia,86,Atlanta Hawks,124
+400828637,2016-02-05,Atlanta Hawks,102,Indiana,96
+400828658,2016-02-07,Orlando,96,Atlanta Hawks,94
+400828667,2016-02-08,Atlanta Hawks,110,Orlando,117
+400828683,2016-02-10,Chicago,90,Atlanta Hawks,113
+400828695,2016-02-19,Atlanta Hawks,111,Miami,115
+400828706,2016-02-20,Atlanta Hawks,109,Milwaukee,117
+400828723,2016-02-22,Atlanta Hawks,92,Golden State,102
+400828752,2016-02-26,Atlanta Hawks,103,Chicago,88
+400828765,2016-02-28,Atlanta Hawks,87,Charlotte,76
+400828782,2016-03-01,Golden State,109,Atlanta Hawks,105
+400828808,2016-03-04,Los Angeles,77,Atlanta Hawks,106
+400828816,2016-03-05,Los Angeles,97,Atlanta Hawks,107
+400828834,2016-03-08,Utah,84,Atlanta Hawks,91
+400828846,2016-03-10,Toronto,104,Atlanta Hawks,96
+400828861,2016-03-12,Atlanta Hawks,95,Memphis,83
+400828871,2016-03-13,Atlanta Hawks,104,Indiana,75
+400828379,2016-01-01,Toronto,104,Charlotte Hornets,94
+400828384,2016-01-02,Charlotte Hornets,90,Oklahoma City,109
+400828407,2016-01-04,Golden State,111,Charlotte Hornets,101
+400828420,2016-01-06,Phoenix,111,Charlotte Hornets,102
+400828437,2016-01-09,Los Angeles,97,Charlotte Hornets,83
+400828450,2016-01-10,Denver,95,Charlotte Hornets,92
+400828464,2016-01-13,Charlotte Hornets,107,Atlanta,84
+400828485,2016-01-15,New Orleans,109,Charlotte Hornets,107
+400828490,2016-01-16,Charlotte Hornets,92,Milwaukee,105
+400828503,2016-01-18,Charlotte Hornets,124,Utah,119
+400828523,2016-01-20,Oklahoma City,109,Charlotte Hornets,95
+400828532,2016-01-22,Orlando,116,Charlotte Hornets,120
+400828542,2016-01-23,Charlotte Hornets,97,NY Knicks,84
+400828561,2016-01-25,Sacramento,128,Charlotte Hornets,129
+400828577,2016-01-27,Utah,102,Charlotte Hornets,73
+400828592,2016-01-29,Portland,109,Charlotte Hornets,91
+400828607,2016-01-31,Los Angeles,82,Charlotte Hornets,101
+400828622,2016-02-03,Charlotte Hornets,106,Cleveland,97
+400828638,2016-02-05,Charlotte Hornets,95,Miami,98
+400828648,2016-02-06,Charlotte Hornets,108,Washington,104
+400828661,2016-02-08,Charlotte Hornets,108,Chicago,91
+400828676,2016-02-10,Indiana,95,Charlotte Hornets,117
+400828700,2016-02-19,Milwaukee,95,Charlotte Hornets,98
+400828714,2016-02-21,Brooklyn,96,Charlotte Hornets,104
+400828732,2016-02-24,Cleveland,114,Charlotte Hornets,103
+400828748,2016-02-26,Indiana,95,Charlotte Hornets,96
+400828765,2016-02-28,Atlanta,87,Charlotte Hornets,76
+400828778,2016-03-01,Charlotte Hornets,126,Phoenix,92
+400828785,2016-03-02,Philadelphia,99,Charlotte Hornets,119
+400828799,2016-03-04,Charlotte Hornets,108,Indiana,101
+400828824,2016-03-07,Charlotte Hornets,108,Minnesota,103
+400828837,2016-03-09,Charlotte Hornets,122,New Orleans,113
+400828850,2016-03-11,Charlotte Hornets,118,Detroit,103
+400828862,2016-03-12,Charlotte Hornets,125,Houston,109
+400828378,2016-01-01,Miami Heat,106,Dallas,82
+400828395,2016-01-03,Washington,75,Miami Heat,97
+400828402,2016-01-04,Miami Heat,103,Indiana,100
+400828412,2016-01-06,Miami Heat,90,NY Knicks,98
+400828434,2016-01-08,Phoenix,95,Miami Heat,103
+400828442,2016-01-09,Utah,98,Miami Heat,83
+400828455,2016-01-11,Golden State,111,Miami Heat,103
+400828473,2016-01-13,Los Angeles,104,Miami Heat,90
+400828487,2016-01-15,Denver,95,Miami Heat,98
+400828498,2016-01-17,Oklahoma City,99,Miami Heat,74
+400828512,2016-01-19,Miami Heat,79,Milwaukee,91
+400828517,2016-01-20,Washington,106,Miami Heat,87
+400828536,2016-01-22,Toronto,101,Miami Heat,81
+400828556,2016-01-25,Chicago,84,Miami Heat,89
+400828565,2016-01-26,Brooklyn,98,Miami Heat,102
+400828590,2016-01-29,Milwaukee,103,Miami Heat,107
+400828602,2016-01-31,Miami Heat,105,Atlanta,87
+400828618,2016-02-02,Houston,115,Miami Heat,102
+400828628,2016-02-03,Dallas,90,Miami Heat,93
+400828638,2016-02-05,Charlotte,95,Miami Heat,98
+400828659,2016-02-07,Miami Heat,93,Los Angeles,100
+400828671,2016-02-09,Miami Heat,101,San Antonio,119
+400828695,2016-02-19,Atlanta,111,Miami Heat,115
+400828707,2016-02-20,Miami Heat,114,Washington,94
+400828721,2016-02-22,Miami Heat,101,Indiana,93
+400828735,2016-02-24,Miami Heat,112,Golden State,118
+400828756,2016-02-27,Boston,101,Miami Heat,89
+400828770,2016-02-28,NY Knicks,81,Miami Heat,98
+400828779,2016-03-01,Miami Heat,129,Chicago,111
+400828795,2016-03-03,Miami Heat,108,Phoenix,92
+400828801,2016-03-04,Philadelphia,102,Miami Heat,112
+400828822,2016-03-06,Miami Heat,103,Philadelphia,98
+400828839,2016-03-09,Milwaukee,114,Miami Heat,108
+400828853,2016-03-11,Chicago,96,Miami Heat,118
+400828864,2016-03-12,Toronto,112,Miami Heat,104
+400828377,2016-01-01,Washington,103,Orlando Magic,91
+400828386,2016-01-02,Cleveland,104,Orlando Magic,79
+400828401,2016-01-04,Detroit,115,Orlando Magic,89
+400828413,2016-01-06,Orlando Magic,86,Indiana,95
+400828428,2016-01-08,Brooklyn,77,Orlando Magic,83
+400828439,2016-01-09,Orlando Magic,99,Washington,105
+400828475,2016-01-14,Orlando Magic,103,Toronto,106
+400828507,2016-01-18,Atlanta,98,Orlando Magic,81
+400828516,2016-01-20,Orlando Magic,87,Philadelphia,96
+400828532,2016-01-22,Orlando Magic,116,Charlotte,120
+400828557,2016-01-25,Memphis,108,Orlando Magic,102
+400828568,2016-01-26,Milwaukee,107,Orlando Magic,100
+400828585,2016-01-29,Boston,113,Orlando Magic,94
+400828603,2016-01-31,Orlando Magic,119,Boston,114
+400828613,2016-02-01,San Antonio,107,Orlando Magic,92
+400828627,2016-02-03,Oklahoma City,117,Orlando Magic,114
+400828639,2016-02-05,Orlando Magic,93,Los Angeles,107
+400828658,2016-02-07,Orlando Magic,96,Atlanta,94
+400828667,2016-02-08,Atlanta,110,Orlando Magic,117
+400828677,2016-02-10,Orlando Magic,96,San Antonio,98
+400828692,2016-02-19,Orlando Magic,110,Dallas,104
+400828715,2016-02-21,Orlando Magic,102,Indiana,105
+400828727,2016-02-23,Philadelphia,115,Orlando Magic,124
+400828742,2016-02-25,Orlando Magic,114,Golden State,130
+400828750,2016-02-26,NY Knicks,108,Orlando Magic,95
+400828768,2016-02-28,Orlando Magic,130,Philadelphia,116
+400828781,2016-03-01,Dallas,121,Orlando Magic,108
+400828784,2016-03-02,Orlando Magic,102,Chicago,89
+400828800,2016-03-04,Orlando Magic,84,Phoenix,102
+400828830,2016-03-07,Golden State,119,Orlando Magic,113
+400828836,2016-03-08,Los Angeles,107,Orlando Magic,98
+400828857,2016-03-11,Sacramento,100,Orlando Magic,107
+400828869,2016-03-12,Portland,121,Orlando Magic,84
+400828377,2016-01-01,Washington Wizards,103,Orlando,91
+400828395,2016-01-03,Washington Wizards,75,Miami,97
+400828414,2016-01-06,Washington Wizards,115,Cleveland,121
+400828427,2016-01-08,Washington Wizards,88,Toronto,97
+400828439,2016-01-09,Orlando,99,Washington Wizards,105
+400828454,2016-01-11,Chicago,100,Washington Wizards,114
+400828465,2016-01-13,Washington Wizards,106,Milwaukee,101
+400828480,2016-01-15,Indiana,104,Washington Wizards,118
+400828491,2016-01-16,Washington Wizards,117,Boston,119
+400828504,2016-01-18,Washington Wizards,98,Portland,108
+400828517,2016-01-20,Washington Wizards,106,Miami,87
+400828555,2016-01-25,Washington Wizards,91,Boston,116
+400828567,2016-01-26,Toronto,106,Washington Wizards,89
+400828580,2016-01-28,Washington Wizards,113,Denver,117
+400828598,2016-01-30,Houston,122,Washington Wizards,123
+400828612,2016-02-01,Oklahoma City,114,Washington Wizards,98
+400828626,2016-02-03,Washington Wizards,121,Golden State,134
+400828640,2016-02-05,Washington Wizards,106,Philadelphia,94
+400828648,2016-02-06,Charlotte,108,Washington Wizards,104
+400828672,2016-02-09,NY Knicks,108,Washington Wizards,111
+400828688,2016-02-11,Milwaukee,99,Washington Wizards,92
+400866670,2016-02-18,Washington Wizards,103,Utah,89
+400828693,2016-02-19,Washington Wizards,98,Detroit,86
+400828707,2016-02-20,Miami,114,Washington Wizards,94
+400828728,2016-02-23,Washington Wizards,109,New Orleans,89
+400828737,2016-02-24,Chicago,109,Washington Wizards,104
+400828749,2016-02-26,Philadelphia,94,Washington Wizards,103
+400828764,2016-02-28,Washington Wizards,113,Cleveland,99
+400828791,2016-03-02,Minnesota,98,Washington Wizards,104
+400828804,2016-03-04,Cleveland,108,Washington Wizards,83
+400828811,2016-03-05,Washington Wizards,99,Indiana,100
+400828835,2016-03-08,Portland,116,Washington Wizards,109
+400828856,2016-03-11,Utah,114,Washington Wizards,93
+400828867,2016-03-12,Denver,116,Washington Wizards,100
+400828391,2016-01-02,Golden State,111,Denver Nuggets,108
+400828396,2016-01-03,Denver Nuggets,106,Portland,112
+400828417,2016-01-06,Minnesota,74,Denver Nuggets,78
+400828429,2016-01-08,Memphis,91,Denver Nuggets,84
+400828450,2016-01-10,Denver Nuggets,95,Charlotte,92
+400828470,2016-01-13,Denver Nuggets,112,Golden State,110
+400828487,2016-01-15,Denver Nuggets,95,Miami,98
+400828500,2016-01-17,Denver Nuggets,129,Indiana,126
+400828514,2016-01-19,Denver Nuggets,104,Oklahoma City,110
+400828529,2016-01-21,Denver Nuggets,101,Memphis,102
+400828548,2016-01-23,Denver Nuggets,104,Detroit,101
+400828559,2016-01-25,Denver Nuggets,105,Atlanta,119
+400828572,2016-01-27,Boston,111,Denver Nuggets,103
+400828580,2016-01-28,Washington,113,Denver Nuggets,117
+400828596,2016-01-30,Indiana,109,Denver Nuggets,105
+400828614,2016-02-01,Denver Nuggets,112,Toronto,93
+400828630,2016-02-03,Utah,85,Denver Nuggets,81
+400828644,2016-02-05,Denver Nuggets,115,Chicago,110
+400828657,2016-02-07,NY Knicks,96,Denver Nuggets,101
+400828665,2016-02-08,Brooklyn,105,Denver Nuggets,104
+400828681,2016-02-10,Detroit,92,Denver Nuggets,103
+400828703,2016-02-19,Sacramento,116,Denver Nuggets,110
+400828712,2016-02-21,Denver Nuggets,101,Boston,121
+400828729,2016-02-23,Denver Nuggets,110,Sacramento,114
+400828740,2016-02-24,Los Angeles,81,Denver Nuggets,87
+400828753,2016-02-26,Dallas,122,Denver Nuggets,116
+400828793,2016-03-02,Denver Nuggets,117,Los Angeles,107
+400828807,2016-03-04,Denver Nuggets,120,Brooklyn,121
+400828820,2016-03-06,Denver Nuggets,116,Dallas,114
+400828833,2016-03-08,Denver Nuggets,110,NY Knicks,94
+400828848,2016-03-10,Denver Nuggets,116,Phoenix,98
+400828867,2016-03-12,Denver Nuggets,116,Washington,100
+400828387,2016-01-02,Minnesota Timberwolves,85,Milwaukee,95
+400828399,2016-01-04,Philadelphia,109,Minnesota Timberwolves,99
+400828417,2016-01-06,Minnesota Timberwolves,74,Denver,78
+400828430,2016-01-08,Minnesota Timberwolves,99,Cleveland,125
+400828444,2016-01-10,Minnesota Timberwolves,87,Dallas,93
+400828461,2016-01-12,Minnesota Timberwolves,96,Oklahoma City,101
+400828468,2016-01-13,Houston,107,Minnesota Timberwolves,104
+400828481,2016-01-15,Oklahoma City,113,Minnesota Timberwolves,93
+400828497,2016-01-17,Minnesota Timberwolves,117,Phoenix,87
+400828513,2016-01-19,New Orleans,114,Minnesota Timberwolves,99
+400828524,2016-01-20,Dallas,106,Minnesota Timberwolves,94
+400828545,2016-01-23,Minnesota Timberwolves,106,Memphis,101
+400828554,2016-01-25,Cleveland,114,Minnesota Timberwolves,107
+400828575,2016-01-27,Minnesota Timberwolves,123,Oklahoma City,126
+400828591,2016-01-29,Utah,103,Minnesota Timberwolves,90
+400828606,2016-01-31,Portland,96,Minnesota Timberwolves,93
+400828621,2016-02-02,Los Angeles,119,Minnesota Timberwolves,115
+400828632,2016-02-03,Los Angeles,102,Minnesota Timberwolves,108
+400828653,2016-02-06,Minnesota Timberwolves,112,Chicago,105
+400828669,2016-02-08,Minnesota Timberwolves,102,New Orleans,116
+400828684,2016-02-10,Minnesota Timberwolves,117,Toronto,112
+400828697,2016-02-19,Memphis,109,Minnesota Timberwolves,104
+400828708,2016-02-20,Minnesota Timberwolves,95,NY Knicks,103
+400828725,2016-02-22,Minnesota Timberwolves,124,Boston,122
+400828736,2016-02-24,Toronto,114,Minnesota Timberwolves,105
+400828757,2016-02-27,New Orleans,110,Minnesota Timberwolves,112
+400828769,2016-02-28,Dallas,128,Minnesota Timberwolves,101
+400828791,2016-03-02,Minnesota Timberwolves,98,Washington,104
+400828806,2016-03-04,Milwaukee,116,Minnesota Timberwolves,101
+400828813,2016-03-05,Minnesota Timberwolves,132,Brooklyn,118
+400828824,2016-03-07,Charlotte,108,Minnesota Timberwolves,103
+400828832,2016-03-08,Minnesota Timberwolves,91,San Antonio,116
+400828855,2016-03-11,Oklahoma City,96,Minnesota Timberwolves,99
+400828384,2016-01-02,Charlotte,90,Oklahoma City Thunder,109
+400828404,2016-01-04,Oklahoma City Thunder,104,Sacramento,116
+400828421,2016-01-06,Oklahoma City Thunder,112,Memphis,94
+400828436,2016-01-08,Los Angeles,113,Oklahoma City Thunder,117
+400828451,2016-01-10,Portland,115,Oklahoma City Thunder,110
+400828461,2016-01-12,Minnesota,96,Oklahoma City Thunder,101
+400828469,2016-01-13,Oklahoma City Thunder,108,Dallas,89
+400828481,2016-01-15,Oklahoma City Thunder,113,Minnesota,93
+400828498,2016-01-17,Oklahoma City Thunder,99,Miami,74
+400828514,2016-01-19,Denver,104,Oklahoma City Thunder,110
+400828523,2016-01-20,Oklahoma City Thunder,109,Charlotte,95
+400828538,2016-01-22,Dallas,106,Oklahoma City Thunder,109
+400828551,2016-01-24,Brooklyn,116,Oklahoma City Thunder,106
+400828566,2016-01-26,NY Knicks,122,Oklahoma City Thunder,128
+400828575,2016-01-27,Minnesota,123,Oklahoma City Thunder,126
+400828588,2016-01-29,Oklahoma City Thunder,116,Houston,108
+400828612,2016-02-01,Oklahoma City Thunder,114,Washington,98
+400828627,2016-02-03,Oklahoma City Thunder,117,Orlando,114
+400828656,2016-02-06,Golden State,116,Oklahoma City Thunder,108
+400828670,2016-02-08,Phoenix,106,Oklahoma City Thunder,122
+400828689,2016-02-11,Oklahoma City Thunder,121,New Orleans,95
+400828699,2016-02-19,Oklahoma City Thunder,98,Indiana,101
+400828711,2016-02-21,Oklahoma City Thunder,92,Cleveland,115
+400828739,2016-02-24,Dallas,103,Oklahoma City Thunder,116
+400828744,2016-02-25,New Orleans,123,Oklahoma City Thunder,119
+400828761,2016-02-27,Oklahoma City Thunder,118,Golden State,121
+400828794,2016-03-02,Los Angeles,103,Oklahoma City Thunder,98
+400828798,2016-03-03,Golden State,121,Oklahoma City Thunder,106
+400828817,2016-03-06,Milwaukee,96,Oklahoma City Thunder,104
+400828842,2016-03-09,Oklahoma City Thunder,120,Los Angeles,108
+400828855,2016-03-11,Oklahoma City Thunder,96,Minnesota,99
+400828866,2016-03-12,San Antonio,93,Oklahoma City Thunder,85
+400828396,2016-01-03,Denver,106,Portland Trail Blazers,112
+400828406,2016-01-04,Portland Trail Blazers,78,Memphis,91
+400828422,2016-01-06,Portland Trail Blazers,98,Los Angeles,109
+400828435,2016-01-08,Portland Trail Blazers,108,Golden State,128
+400828451,2016-01-10,Portland Trail Blazers,115,Oklahoma City,110
+400828471,2016-01-13,Portland Trail Blazers,99,Utah,85
+400828483,2016-01-15,Brooklyn,104,Portland Trail Blazers,116
+400828493,2016-01-16,Philadelphia,114,Portland Trail Blazers,89
+400828504,2016-01-18,Washington,98,Portland Trail Blazers,108
+400828526,2016-01-20,Portland Trail Blazers,98,Atlanta,104
+400828549,2016-01-23,Portland Trail Blazers,121,Los Angeles,103
+400828569,2016-01-26,Portland Trail Blazers,112,Sacramento,97
+400828592,2016-01-29,Portland Trail Blazers,109,Charlotte,91
+400828606,2016-01-31,Portland Trail Blazers,96,Minnesota,93
+400828620,2016-02-02,Portland Trail Blazers,107,Milwaukee,95
+400828635,2016-02-04,Portland Trail Blazers,103,Toronto,110
+400828647,2016-02-06,Houston,79,Portland Trail Blazers,96
+400828668,2016-02-08,Memphis,106,Portland Trail Blazers,112
+400828687,2016-02-10,Portland Trail Blazers,116,Houston,103
+400828702,2016-02-19,Portland Trail Blazers,137,Golden State,105
+400828719,2016-02-21,Portland Trail Blazers,115,Utah,111
+400828731,2016-02-23,Portland Trail Blazers,112,Brooklyn,104
+400828746,2016-02-25,Portland Trail Blazers,105,Houston,119
+400828758,2016-02-27,Chicago,95,Portland Trail Blazers,103
+400828767,2016-02-28,Indiana,102,Portland Trail Blazers,111
+400828780,2016-03-01,NY Knicks,85,Portland Trail Blazers,104
+400828786,2016-03-02,Boston,116,Portland Trail Blazers,93
+400828803,2016-03-04,Toronto,117,Portland Trail Blazers,115
+400828821,2016-03-06,Detroit,123,Portland Trail Blazers,103
+400828835,2016-03-08,Portland Trail Blazers,116,Washington,109
+400828858,2016-03-11,Golden State,128,Portland Trail Blazers,112
+400828869,2016-03-12,Portland Trail Blazers,121,Orlando,84
+400828390,2016-01-02,Utah Jazz,92,Memphis,87
+400828405,2016-01-04,Utah Jazz,91,Houston,93
+400828419,2016-01-06,San Antonio,123,Utah Jazz,98
+400828425,2016-01-07,Houston,103,Utah Jazz,94
+400828442,2016-01-09,Utah Jazz,98,Miami,83
+400828452,2016-01-10,Los Angeles,74,Utah Jazz,86
+400828471,2016-01-13,Portland,99,Utah Jazz,85
+400828478,2016-01-14,Utah Jazz,101,Sacramento,103
+400828495,2016-01-16,Utah Jazz,109,Los Angeles,82
+400828503,2016-01-18,Charlotte,124,Utah Jazz,119
+400828519,2016-01-20,NY Knicks,118,Utah Jazz,111
+400828534,2016-01-22,Brooklyn,86,Utah Jazz,108
+400828560,2016-01-25,Utah Jazz,92,Detroit,95
+400828577,2016-01-27,Utah Jazz,102,Charlotte,73
+400828591,2016-01-29,Utah Jazz,103,Minnesota,90
+400828615,2016-02-01,Utah Jazz,105,Chicago,96
+400828630,2016-02-03,Utah Jazz,85,Denver,81
+400828645,2016-02-05,Utah Jazz,84,Milwaukee,81
+400828655,2016-02-06,Phoenix,89,Utah Jazz,98
+400828674,2016-02-09,Dallas,119,Utah Jazz,121
+400828685,2016-02-10,New Orleans,100,Utah Jazz,96
+400866670,2016-02-18,Washington,103,Utah Jazz,89
+400828704,2016-02-19,Utah Jazz,111,Boston,93
+400828719,2016-02-21,Portland,115,Utah Jazz,111
+400828730,2016-02-23,Utah Jazz,117,Houston,114
+400828747,2016-02-25,Utah Jazz,78,San Antonio,96
+400828763,2016-02-27,Utah Jazz,96,Brooklyn,98
+400828787,2016-03-02,Toronto,104,Utah Jazz,94
+400828805,2016-03-04,Memphis,94,Utah Jazz,88
+400828812,2016-03-05,New Orleans,94,Utah Jazz,106
+400828834,2016-03-08,Utah Jazz,84,Atlanta,91
+400828845,2016-03-09,Golden State,115,Utah Jazz,94
+400828856,2016-03-11,Utah Jazz,114,Washington,93
+400828873,2016-03-13,Sacramento,99,Utah Jazz,108

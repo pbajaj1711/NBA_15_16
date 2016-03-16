@@ -1,0 +1,962 @@
+400578298,2015-10-29,Boston Celtics,121,Brooklyn,105
+400578326,2015-11-01,Houston,104,Boston Celtics,90
+400578338,2015-11-03,Dallas,118,Boston Celtics,113
+400578351,2015-11-05,Boston Celtics,107,Toronto,110
+400578366,2015-11-07,Boston Celtics,101,Indiana,98
+400578378,2015-11-08,Chicago,101,Boston Celtics,106
+400578403,2015-11-12,Boston Celtics,94,Oklahoma City,109
+400578417,2015-11-14,Boston Celtics,121,Cleveland,122
+400578440,2015-11-17,Boston Celtics,114,Phoenix,118
+400578454,2015-11-19,Philadelphia,90,Boston Celtics,101
+400578468,2015-11-21,Memphis,117,Boston Celtics,100
+400578486,2015-11-23,Boston Celtics,88,Portland,94
+400578515,2015-11-28,Boston Celtics,102,Chicago,109
+400578533,2015-11-30,Boston Celtics,89,San Antonio,111
+400578546,2015-12-02,Atlanta,109,Boston Celtics,105
+400578557,2015-12-03,Boston Celtics,109,Detroit,102
+400578571,2015-12-05,Boston Celtics,113,Los Angeles,96
+400578586,2015-12-07,Boston Celtics,101,Washington,93
+400578594,2015-12-08,Washington,133,Boston Celtics,132
+400578608,2015-12-10,Charlotte,96,Boston Celtics,87
+400578623,2015-12-12,Boston Celtics,95,NY Knicks,101
+400578649,2015-12-15,Philadelphia,87,Boston Celtics,105
+400578663,2015-12-17,Boston Celtics,109,Orlando,92
+400578677,2015-12-19,Boston Celtics,114,Minnesota,98
+400578696,2015-12-21,Miami,100,Boston Celtics,84
+400578710,2015-12-23,Orlando,100,Boston Celtics,95
+400578724,2015-12-26,Boston Celtics,107,Brooklyn,109
+400578737,2015-12-27,Washington,101,Boston Celtics,88
+400578767,2015-12-31,Boston Celtics,106,Sacramento,84
+400578298,2015-10-29,Boston,121,Brooklyn Nets,105
+400578325,2015-11-01,Detroit,90,Brooklyn Nets,102
+400578336,2015-11-03,Brooklyn Nets,116,Oklahoma City,85
+400578352,2015-11-05,Brooklyn Nets,91,Minnesota,98
+400578367,2015-11-07,Brooklyn Nets,110,NY Knicks,99
+400578382,2015-11-09,Brooklyn Nets,104,Orlando,96
+400578408,2015-11-12,Phoenix,112,Brooklyn Nets,104
+400578413,2015-11-13,Golden State,107,Brooklyn Nets,99
+400578430,2015-11-15,Portland,97,Brooklyn Nets,87
+400578441,2015-11-17,Brooklyn Nets,83,Miami,95
+400578456,2015-11-19,Brooklyn Nets,118,Milwaukee,122
+400578470,2015-11-21,Oklahoma City,92,Brooklyn Nets,94
+400578483,2015-11-22,San Antonio,99,Brooklyn Nets,87
+400578505,2015-11-26,Philadelphia,91,Brooklyn Nets,99
+400578534,2015-11-30,Brooklyn Nets,84,Chicago,102
+400578548,2015-12-02,NY Knicks,93,Brooklyn Nets,98
+400578558,2015-12-03,Brooklyn Nets,95,San Antonio,93
+400578572,2015-12-05,Brooklyn Nets,75,Atlanta,98
+400578595,2015-12-08,Brooklyn Nets,88,Cleveland,110
+400578612,2015-12-10,Chicago,105,Brooklyn Nets,80
+400578624,2015-12-12,Brooklyn Nets,88,Philadelphia,70
+400578633,2015-12-13,Charlotte,87,Brooklyn Nets,114
+400578656,2015-12-16,Brooklyn Nets,91,Miami,95
+400578666,2015-12-17,Toronto,105,Brooklyn Nets,89
+400578678,2015-12-19,Cleveland,95,Brooklyn Nets,91
+400578695,2015-12-21,Brooklyn Nets,110,Detroit,105
+400578713,2015-12-23,Brooklyn Nets,102,Denver,96
+400578724,2015-12-26,Boston,107,Brooklyn Nets,109
+400578740,2015-12-27,Brooklyn Nets,85,Indiana,110
+400578753,2015-12-29,Brooklyn Nets,107,Sacramento,99
+400578759,2015-12-30,Chicago,82,Brooklyn Nets,96
+400578302,2015-10-29,New York Knicks,80,Chicago,104
+400578310,2015-10-30,Cleveland,90,New York Knicks,95
+400578333,2015-11-02,New York Knicks,96,Charlotte,93
+400578343,2015-11-04,New York Knicks,83,Washington,98
+400578353,2015-11-05,Detroit,98,New York Knicks,95
+400578367,2015-11-07,Brooklyn,110,New York Knicks,99
+400578376,2015-11-08,Atlanta,103,New York Knicks,96
+400578392,2015-11-10,New York Knicks,85,Atlanta,91
+400578405,2015-11-12,New York Knicks,95,Orlando,97
+400578418,2015-11-14,New York Knicks,100,Utah,102
+400578434,2015-11-16,New York Knicks,109,Denver,93
+400578448,2015-11-18,Milwaukee,117,New York Knicks,113
+400578459,2015-11-19,Minnesota,115,New York Knicks,99
+400578479,2015-11-22,New York Knicks,91,Philadelphia,83
+400578494,2015-11-24,Houston,91,New York Knicks,86
+400578506,2015-11-26,Dallas,109,New York Knicks,102
+400578521,2015-11-28,Oklahoma City,105,New York Knicks,78
+400578537,2015-11-30,New York Knicks,79,Miami,86
+400578548,2015-12-02,New York Knicks,93,Brooklyn,98
+400578565,2015-12-04,New York Knicks,87,Cleveland,90
+400578568,2015-12-05,Charlotte,103,New York Knicks,102
+400578591,2015-12-07,New York Knicks,99,Portland,103
+400578603,2015-12-09,New Orleans,104,New York Knicks,93
+400578614,2015-12-10,San Antonio,109,New York Knicks,95
+400578623,2015-12-12,Boston,95,New York Knicks,101
+400578645,2015-12-14,New York Knicks,90,Toronto,95
+400578659,2015-12-16,New York Knicks,87,Dallas,107
+400578671,2015-12-18,Chicago,103,New York Knicks,97
+400578685,2015-12-20,New York Knicks,90,Phoenix,99
+400578692,2015-12-21,Toronto,118,New York Knicks,108
+400578719,2015-12-25,New York Knicks,91,Washington,102
+400578743,2015-12-27,Sacramento,135,New York Knicks,129
+400578748,2015-12-28,Portland,101,New York Knicks,79
+400578769,2015-12-31,Los Angeles,99,New York Knicks,78
+400578297,2015-10-29,Indiana,103,Philadelphia 76ers,91
+400578315,2015-10-31,Milwaukee,93,Philadelphia 76ers,81
+400578322,2015-11-01,Philadelphia 76ers,96,Miami,114
+400578335,2015-11-03,Philadelphia 76ers,93,Houston,104
+400578350,2015-11-05,Philadelphia 76ers,89,Orlando,91
+400578365,2015-11-07,Philadelphia 76ers,115,Chicago,118
+400578385,2015-11-09,Toronto,120,Philadelphia 76ers,88
+400578412,2015-11-13,Dallas,123,Philadelphia 76ers,70
+400578419,2015-11-14,Houston,88,Philadelphia 76ers,87
+400578444,2015-11-17,San Antonio,100,Philadelphia 76ers,75
+400578454,2015-11-19,Philadelphia 76ers,90,Boston,101
+400578465,2015-11-21,Philadelphia 76ers,96,Phoenix,122
+400578479,2015-11-22,NY Knicks,91,Philadelphia 76ers,83
+400578492,2015-11-24,Philadelphia 76ers,104,Portland,114
+400578505,2015-11-26,Philadelphia 76ers,91,Brooklyn,99
+400578527,2015-11-29,Philadelphia 76ers,103,Dallas,110
+400578541,2015-12-01,Philadelphia 76ers,103,San Antonio,109
+400578562,2015-12-03,Minnesota,77,Philadelphia 76ers,85
+400578569,2015-12-05,Philadelphia 76ers,91,Oklahoma City,103
+400578580,2015-12-06,Detroit,101,Philadelphia 76ers,108
+400578611,2015-12-10,Atlanta,95,Philadelphia 76ers,79
+400578624,2015-12-12,Brooklyn,88,Philadelphia 76ers,70
+400578637,2015-12-13,Philadelphia 76ers,115,Memphis,120
+400578649,2015-12-15,Philadelphia 76ers,87,Boston,105
+400578676,2015-12-19,Philadelphia 76ers,91,Charlotte,109
+400578697,2015-12-21,Orlando,88,Philadelphia 76ers,96
+400578714,2015-12-23,Miami,87,Philadelphia 76ers,91
+400578733,2015-12-26,Portland,114,Philadelphia 76ers,93
+400578742,2015-12-27,Utah,88,Philadelphia 76ers,71
+400578766,2015-12-30,Golden State,126,Philadelphia 76ers,86
+400578300,2015-10-29,Toronto Raptors,109,Atlanta,102
+400578321,2015-11-01,Orlando,95,Toronto Raptors,108
+400578332,2015-11-02,Miami,107,Toronto Raptors,102
+400578344,2015-11-04,Toronto Raptors,100,Oklahoma City,88
+400578351,2015-11-05,Boston,107,Toronto Raptors,110
+400578369,2015-11-07,Toronto Raptors,103,Washington,84
+400578385,2015-11-09,Toronto Raptors,120,Philadelphia,88
+400578395,2015-11-11,Toronto Raptors,104,Orlando,100
+400578411,2015-11-13,Toronto Raptors,93,Chicago,100
+400578426,2015-11-15,Toronto Raptors,111,Utah,93
+400578458,2015-11-19,Toronto Raptors,96,Memphis,92
+400578467,2015-11-21,Toronto Raptors,124,Milwaukee,82
+400578478,2015-11-22,Cleveland,93,Toronto Raptors,110
+400578493,2015-11-24,Toronto Raptors,104,Phoenix,100
+400578507,2015-11-26,Atlanta,115,Toronto Raptors,126
+400578519,2015-11-28,Toronto Raptors,102,Dallas,106
+400578540,2015-11-30,Los Angeles,129,Toronto Raptors,122
+400578553,2015-12-02,Sacramento,109,Toronto Raptors,117
+400578563,2015-12-03,Utah,104,Toronto Raptors,123
+400578573,2015-12-05,Toronto Raptors,91,Cleveland,105
+400578596,2015-12-08,Toronto Raptors,112,Denver,107
+400578600,2015-12-09,Cleveland,105,Toronto Raptors,101
+400578625,2015-12-12,Toronto Raptors,106,Indiana,94
+400578645,2015-12-14,NY Knicks,90,Toronto Raptors,95
+400578651,2015-12-15,Toronto Raptors,95,Orlando,82
+400578666,2015-12-17,Toronto Raptors,105,Brooklyn,89
+400578679,2015-12-19,Detroit,100,Toronto Raptors,110
+400578692,2015-12-21,Toronto Raptors,118,NY Knicks,108
+400578702,2015-12-22,Chicago,129,Toronto Raptors,120
+400578735,2015-12-27,Los Angeles,98,Toronto Raptors,110
+400578749,2015-12-28,Denver,102,Toronto Raptors,116
+400578765,2015-12-30,Portland,102,Toronto Raptors,97
+400578306,2015-10-29,Sacramento,77,Golden State Warriors,95
+400578330,2015-11-01,Golden State Warriors,127,Los Angeles,104
+400578334,2015-11-02,Portland,90,Golden State Warriors,95
+400578360,2015-11-05,Golden State Warriors,121,Los Angeles,104
+400578379,2015-11-08,Houston,87,Golden State Warriors,98
+400578387,2015-11-09,Phoenix,107,Golden State Warriors,95
+400578400,2015-11-11,Golden State Warriors,100,San Antonio,113
+400578413,2015-11-13,Golden State Warriors,107,Brooklyn,99
+400578432,2015-11-15,Golden State Warriors,112,Charlotte,87
+400578437,2015-11-16,Los Angeles,115,Golden State Warriors,136
+400578474,2015-11-21,Golden State Warriors,101,Utah,88
+400578488,2015-11-23,Oklahoma City,86,Golden State Warriors,91
+400578498,2015-11-25,Miami,97,Golden State Warriors,114
+400578504,2015-11-26,Orlando,96,Golden State Warriors,111
+400578516,2015-11-28,Charlotte,101,Golden State Warriors,106
+400578535,2015-11-30,Detroit,93,Golden State Warriors,104
+400578554,2015-12-02,Golden State Warriors,98,Orlando,97
+400578567,2015-12-04,Golden State Warriors,112,New Orleans,85
+400578581,2015-12-06,Chicago,102,Golden State Warriors,112
+400578597,2015-12-08,Minnesota,86,Golden State Warriors,102
+400578616,2015-12-10,Golden State Warriors,105,Houston,93
+400578632,2015-12-13,Dallas,98,Golden State Warriors,105
+400578640,2015-12-14,New Orleans,122,Golden State Warriors,128
+400578657,2015-12-16,Memphis,105,Golden State Warriors,98
+400578674,2015-12-18,Golden State Warriors,114,Oklahoma City,109
+400578707,2015-12-22,Golden State Warriors,128,Sacramento,108
+400578718,2015-12-23,Los Angeles,115,Golden State Warriors,105
+400578723,2015-12-25,Los Angeles,100,Golden State Warriors,86
+400578744,2015-12-27,Golden State Warriors,110,Minnesota,97
+400578766,2015-12-30,Golden State Warriors,126,Philadelphia,86
+400578312,2015-10-30,Los Angeles Clippers,93,Oklahoma City,90
+400578318,2015-10-31,Los Angeles,111,Los Angeles Clippers,118
+400578331,2015-11-02,Los Angeles Clippers,92,Sacramento,98
+400578340,2015-11-03,Los Angeles Clippers,107,Utah,101
+400578360,2015-11-05,Golden State,121,Los Angeles Clippers,104
+400578374,2015-11-08,Los Angeles Clippers,106,Portland,102
+400578394,2015-11-10,Los Angeles Clippers,85,San Antonio,89
+400578433,2015-11-15,Los Angeles Clippers,120,Phoenix,107
+400578446,2015-11-17,Los Angeles Clippers,89,Chicago,105
+400578453,2015-11-19,Orlando,90,Los Angeles Clippers,114
+400578462,2015-11-20,Miami,93,Los Angeles Clippers,110
+400578485,2015-11-23,Memphis,107,Los Angeles Clippers,91
+400578490,2015-11-24,Charlotte,92,Los Angeles Clippers,113
+400578508,2015-11-26,Detroit,98,Los Angeles Clippers,104
+400578520,2015-11-28,Houston,85,Los Angeles Clippers,102
+400578531,2015-11-29,Utah,96,Los Angeles Clippers,112
+400578544,2015-12-01,Los Angeles Clippers,127,Minnesota,101
+400578564,2015-12-03,Los Angeles Clippers,114,Orlando,86
+400578585,2015-12-06,Los Angeles Clippers,120,New Orleans,100
+400578599,2015-12-08,Los Angeles Clippers,121,Phoenix,120
+400578609,2015-12-10,Indiana,96,Los Angeles Clippers,103
+400578621,2015-12-12,Washington,104,Los Angeles Clippers,96
+400578636,2015-12-13,Milwaukee,111,Los Angeles Clippers,106
+400578654,2015-12-15,Los Angeles Clippers,113,Detroit,91
+400578669,2015-12-17,Los Angeles Clippers,102,Indiana,100
+400578683,2015-12-19,Denver,109,Los Angeles Clippers,106
+400578691,2015-12-20,Los Angeles Clippers,106,Milwaukee,102
+400578706,2015-12-22,San Antonio,125,Los Angeles Clippers,118
+400578712,2015-12-23,Atlanta,107,Los Angeles Clippers,104
+400578723,2015-12-25,Los Angeles Clippers,100,Golden State,86
+400578735,2015-12-27,Los Angeles Clippers,98,Toronto,110
+400578756,2015-12-29,Los Angeles Clippers,101,Utah,97
+400578769,2015-12-31,Los Angeles Clippers,99,NY Knicks,78
+400578295,2015-10-28,Los Angeles Lakers,90,Houston,108
+400578305,2015-10-29,Phoenix,119,Los Angeles Lakers,99
+400578318,2015-10-31,Los Angeles Lakers,111,Los Angeles,118
+400578330,2015-11-01,Golden State,127,Los Angeles Lakers,104
+400578348,2015-11-04,Los Angeles Lakers,106,Phoenix,112
+400578389,2015-11-09,Los Angeles Lakers,107,Charlotte,92
+400578396,2015-11-11,Memphis,107,Los Angeles Lakers,102
+400578406,2015-11-12,New Orleans,109,Los Angeles Lakers,102
+400578423,2015-11-14,Los Angeles Lakers,80,San Antonio,93
+400578437,2015-11-16,Los Angeles Lakers,115,Golden State,136
+400578447,2015-11-18,Atlanta,109,Los Angeles Lakers,114
+400578461,2015-11-19,Houston,92,Los Angeles Lakers,98
+400578472,2015-11-21,Dallas,140,Los Angeles Lakers,106
+400578489,2015-11-23,Los Angeles Lakers,94,Denver,101
+400578514,2015-11-26,Los Angeles Lakers,93,Memphis,99
+400578526,2015-11-28,Los Angeles Lakers,119,Minnesota,120
+400578540,2015-11-30,Los Angeles Lakers,129,Toronto,122
+400578547,2015-12-02,Detroit,96,Los Angeles Lakers,106
+400578556,2015-12-03,Washington,111,Los Angeles Lakers,95
+400578571,2015-12-05,Boston,113,Los Angeles Lakers,96
+400578592,2015-12-07,Los Angeles Lakers,87,New Orleans,104
+400578607,2015-12-09,Los Angeles Lakers,98,Sacramento,95
+400578631,2015-12-12,San Antonio,110,Los Angeles Lakers,112
+400578643,2015-12-14,Minnesota,94,Los Angeles Lakers,100
+400578648,2015-12-15,Indiana,110,Los Angeles Lakers,91
+400578684,2015-12-19,Los Angeles Lakers,103,Oklahoma City,104
+400578694,2015-12-21,Sacramento,108,Los Angeles Lakers,101
+400578718,2015-12-23,Los Angeles Lakers,115,Golden State,105
+400578722,2015-12-25,Chicago,113,Los Angeles Lakers,93
+400578731,2015-12-26,Dallas,102,Los Angeles Lakers,98
+400578750,2015-12-28,Los Angeles Lakers,107,Phoenix,116
+400578763,2015-12-30,Denver,103,Los Angeles Lakers,111
+400578305,2015-10-29,Phoenix Suns,119,Los Angeles,99
+400578316,2015-10-31,Phoenix Suns,94,San Antonio,89
+400578329,2015-11-01,Utah,118,Phoenix Suns,91
+400578348,2015-11-04,Los Angeles,106,Phoenix Suns,112
+400578357,2015-11-05,Phoenix Suns,91,Memphis,102
+400578371,2015-11-07,Phoenix Suns,112,Sacramento,114
+400578387,2015-11-09,Phoenix Suns,107,Golden State,95
+400578408,2015-11-12,Phoenix Suns,112,Brooklyn,104
+400578422,2015-11-14,Phoenix Suns,95,Charlotte,103
+400578433,2015-11-15,Los Angeles,120,Phoenix Suns,107
+400578440,2015-11-17,Boston,114,Phoenix Suns,118
+400578457,2015-11-19,Detroit,86,Phoenix Suns,88
+400578465,2015-11-21,Philadelphia,96,Phoenix Suns,122
+400578476,2015-11-22,Indiana,83,Phoenix Suns,106
+400578493,2015-11-24,Toronto,104,Phoenix Suns,100
+400578513,2015-11-26,Phoenix Suns,120,Denver,112
+400578524,2015-11-28,Denver,122,Phoenix Suns,97
+400578538,2015-11-30,Phoenix Suns,90,Orlando,93
+400578552,2015-12-02,Phoenix Suns,116,Indiana,99
+400578576,2015-12-05,Dallas,106,Phoenix Suns,118
+400578582,2015-12-06,Houston,100,Phoenix Suns,95
+400578599,2015-12-08,Los Angeles,121,Phoenix Suns,120
+400578605,2015-12-09,Phoenix Suns,97,Miami,103
+400578629,2015-12-12,Phoenix Suns,103,Detroit,105
+400578644,2015-12-14,Oklahoma City,112,Phoenix Suns,88
+400578652,2015-12-15,Phoenix Suns,94,Milwaukee,96
+400578661,2015-12-17,Charlotte,106,Phoenix Suns,111
+400578685,2015-12-20,NY Knicks,90,Phoenix Suns,99
+400578698,2015-12-21,Washington,92,Phoenix Suns,104
+400578717,2015-12-23,Phoenix Suns,124,Dallas,115
+400578734,2015-12-26,Sacramento,106,Phoenix Suns,115
+400578750,2015-12-28,Los Angeles,107,Phoenix Suns,116
+400578761,2015-12-30,New Orleans,110,Phoenix Suns,106
+400578772,2015-12-31,Oklahoma City,137,Phoenix Suns,134
+400578306,2015-10-29,Sacramento Kings,77,Golden State,95
+400578317,2015-10-31,Sacramento Kings,103,Portland,94
+400578331,2015-11-02,Los Angeles,92,Sacramento Kings,98
+400578339,2015-11-03,Denver,105,Sacramento Kings,110
+400578359,2015-11-05,Sacramento Kings,131,Denver,109
+400578371,2015-11-07,Phoenix,112,Sacramento Kings,114
+400578384,2015-11-09,Oklahoma City,101,Sacramento Kings,93
+400578398,2015-11-11,Dallas,106,Sacramento Kings,98
+400578410,2015-11-13,Memphis,111,Sacramento Kings,110
+400578431,2015-11-15,Sacramento Kings,94,San Antonio,91
+400578450,2015-11-18,Sacramento Kings,100,New Orleans,106
+400578463,2015-11-20,Sacramento Kings,103,Chicago,88
+400578481,2015-11-22,Minnesota,101,Sacramento Kings,113
+400578500,2015-11-25,New Orleans,89,Sacramento Kings,99
+400578509,2015-11-26,Houston,102,Sacramento Kings,89
+400578523,2015-11-28,San Antonio,112,Sacramento Kings,104
+400578536,2015-11-30,Sacramento Kings,85,Memphis,97
+400578553,2015-12-02,Sacramento Kings,109,Toronto,117
+400578579,2015-12-05,Sacramento Kings,102,Indiana,101
+400578584,2015-12-06,Sacramento Kings,96,Orlando,105
+400578598,2015-12-08,Sacramento Kings,101,Utah,92
+400578607,2015-12-09,Los Angeles,98,Sacramento Kings,95
+400578619,2015-12-11,Sacramento Kings,109,Houston,113
+400578639,2015-12-13,Sacramento Kings,90,Detroit,95
+400578660,2015-12-16,Sacramento Kings,92,Oklahoma City,104
+400578673,2015-12-18,Sacramento Kings,107,Milwaukee,108
+400578694,2015-12-21,Sacramento Kings,108,Los Angeles,101
+400578707,2015-12-22,Golden State,128,Sacramento Kings,108
+400578734,2015-12-26,Sacramento Kings,106,Phoenix,115
+400578743,2015-12-27,Sacramento Kings,135,NY Knicks,129
+400578753,2015-12-29,Brooklyn,107,Sacramento Kings,99
+400578767,2015-12-31,Boston,106,Sacramento Kings,84
+400578302,2015-10-29,NY Knicks,80,Chicago Bulls,104
+400578314,2015-10-31,Chicago Bulls,108,Cleveland,114
+400578327,2015-11-01,Minnesota,105,Chicago Bulls,106
+400578345,2015-11-04,Chicago Bulls,98,Orlando,90
+400578354,2015-11-05,Milwaukee,86,Chicago Bulls,95
+400578365,2015-11-07,Philadelphia,115,Chicago Bulls,118
+400578378,2015-11-08,Chicago Bulls,101,Boston,106
+400578393,2015-11-10,Chicago Bulls,102,Detroit,91
+400578411,2015-11-13,Toronto,93,Chicago Bulls,100
+400578427,2015-11-15,Chicago Bulls,90,Indiana,99
+400578446,2015-11-17,Los Angeles,89,Chicago Bulls,105
+400578463,2015-11-20,Sacramento,103,Chicago Bulls,88
+400578475,2015-11-21,Portland,105,Chicago Bulls,87
+400578496,2015-11-24,Utah,95,Chicago Bulls,97
+400578501,2015-11-25,Denver,114,Chicago Bulls,109
+400578515,2015-11-28,Boston,102,Chicago Bulls,109
+400578534,2015-11-30,Brooklyn,84,Chicago Bulls,102
+400578549,2015-12-02,Chicago Bulls,129,Dallas,132
+400578555,2015-12-03,Charlotte,95,Chicago Bulls,102
+400578581,2015-12-06,Chicago Bulls,102,Golden State,112
+400578612,2015-12-10,Chicago Bulls,105,Brooklyn,80
+400578620,2015-12-12,Chicago Bulls,115,Portland,96
+400578641,2015-12-14,Miami,75,Chicago Bulls,93
+400578650,2015-12-15,Atlanta,93,Chicago Bulls,86
+400578671,2015-12-18,Chicago Bulls,103,NY Knicks,97
+400578681,2015-12-19,Memphis,97,Chicago Bulls,103
+400578702,2015-12-22,Chicago Bulls,129,Toronto,120
+400578711,2015-12-23,Washington,91,Chicago Bulls,99
+400578722,2015-12-25,Chicago Bulls,113,Los Angeles,93
+400578739,2015-12-27,Chicago Bulls,107,New Orleans,100
+400578752,2015-12-29,Indiana,90,Chicago Bulls,92
+400578759,2015-12-30,Chicago Bulls,82,Brooklyn,96
+400578310,2015-10-30,Cleveland Cavaliers,90,NY Knicks,95
+400578314,2015-10-31,Chicago,108,Cleveland Cavaliers,114
+400578347,2015-11-04,Portland,101,Cleveland Cavaliers,82
+400578358,2015-11-05,Utah,102,Cleveland Cavaliers,100
+400578373,2015-11-07,Denver,101,Cleveland Cavaliers,110
+400578390,2015-11-10,Cleveland Cavaliers,118,New Orleans,111
+400578417,2015-11-14,Boston,121,Cleveland Cavaliers,122
+400578425,2015-11-15,Cleveland Cavaliers,127,Atlanta,94
+400578439,2015-11-17,Cleveland Cavaliers,97,Denver,106
+400578451,2015-11-19,Cleveland Cavaliers,90,San Antonio,92
+400578471,2015-11-21,Washington,91,Cleveland Cavaliers,78
+400578478,2015-11-22,Cleveland Cavaliers,93,Toronto,110
+400578491,2015-11-24,Cleveland Cavaliers,106,Orlando,74
+400578503,2015-11-26,Cleveland Cavaliers,113,Washington,87
+400578530,2015-11-29,Cleveland Cavaliers,109,Indiana,97
+400578545,2015-12-02,Cleveland Cavaliers,111,Milwaukee,108
+400578565,2015-12-04,NY Knicks,87,Cleveland Cavaliers,90
+400578573,2015-12-05,Toronto,91,Cleveland Cavaliers,105
+400578595,2015-12-08,Brooklyn,88,Cleveland Cavaliers,110
+400578600,2015-12-09,Cleveland Cavaliers,105,Toronto,101
+400578618,2015-12-11,Oklahoma City,103,Cleveland Cavaliers,94
+400578628,2015-12-12,New Orleans,119,Cleveland Cavaliers,114
+400578647,2015-12-15,Cleveland Cavaliers,97,Charlotte,88
+400578662,2015-12-17,Cleveland Cavaliers,98,Atlanta,127
+400578678,2015-12-19,Cleveland Cavaliers,95,Brooklyn,91
+400578693,2015-12-21,Cleveland Cavaliers,105,Memphis,91
+400578708,2015-12-23,Cleveland Cavaliers,125,Minnesota,104
+400578721,2015-12-25,Miami,101,Cleveland Cavaliers,91
+400578725,2015-12-26,Orlando,89,Cleveland Cavaliers,98
+400578745,2015-12-28,Cleveland Cavaliers,80,Detroit,103
+400578758,2015-12-30,Atlanta,109,Cleveland Cavaliers,101
+400578771,2015-12-31,Cleveland Cavaliers,80,Milwaukee,96
+400578303,2015-10-29,Denver,89,Detroit Pistons,79
+400578309,2015-10-30,Minnesota,97,Detroit Pistons,91
+400578325,2015-11-01,Detroit Pistons,90,Brooklyn,102
+400578353,2015-11-05,Detroit Pistons,98,NY Knicks,95
+400578368,2015-11-07,Detroit Pistons,98,Milwaukee,95
+400578383,2015-11-09,Detroit Pistons,96,Utah,97
+400578393,2015-11-10,Chicago,102,Detroit Pistons,91
+400578401,2015-11-12,Washington,107,Detroit Pistons,103
+400578421,2015-11-14,Oklahoma City,89,Detroit Pistons,96
+400578428,2015-11-15,Memphis,95,Detroit Pistons,88
+400578442,2015-11-17,Detroit Pistons,93,Orlando,107
+400578457,2015-11-19,Detroit Pistons,86,Phoenix,88
+400578466,2015-11-21,Atlanta,99,Detroit Pistons,89
+400578499,2015-11-25,Milwaukee,98,Detroit Pistons,86
+400578508,2015-11-26,Detroit Pistons,98,Los Angeles,104
+400578518,2015-11-28,Detroit Pistons,88,Milwaukee,104
+400578535,2015-11-30,Detroit Pistons,93,Golden State,104
+400578547,2015-12-02,Detroit Pistons,96,Los Angeles,106
+400578557,2015-12-03,Boston,109,Detroit Pistons,102
+400578580,2015-12-06,Detroit Pistons,101,Philadelphia,108
+400578589,2015-12-07,Detroit Pistons,94,Oklahoma City,96
+400578601,2015-12-09,Detroit Pistons,86,Portland,98
+400578629,2015-12-12,Phoenix,103,Detroit Pistons,105
+400578639,2015-12-13,Sacramento,90,Detroit Pistons,95
+400578654,2015-12-15,Los Angeles,113,Detroit Pistons,91
+400578664,2015-12-17,Detroit Pistons,106,Dallas,117
+400578679,2015-12-19,Detroit Pistons,100,Toronto,110
+400578695,2015-12-21,Brooklyn,110,Detroit Pistons,105
+400578727,2015-12-26,Detroit Pistons,119,Indiana,109
+400578745,2015-12-28,Cleveland,80,Detroit Pistons,103
+400578757,2015-12-30,Orlando,86,Detroit Pistons,109
+400578297,2015-10-29,Indiana Pacers,103,Philadelphia,91
+400578313,2015-10-31,Indiana Pacers,89,Memphis,97
+400578324,2015-11-01,Atlanta,102,Indiana Pacers,92
+400578341,2015-11-04,Indiana Pacers,81,Milwaukee,87
+400578355,2015-11-05,Washington,96,Indiana Pacers,94
+400578366,2015-11-07,Boston,101,Indiana Pacers,98
+400578375,2015-11-08,Indiana Pacers,90,Washington,97
+400578391,2015-11-10,Indiana Pacers,97,Utah,86
+400578404,2015-11-12,Miami,75,Indiana Pacers,81
+400578414,2015-11-14,Indiana Pacers,87,Denver,108
+400578427,2015-11-15,Chicago,90,Indiana Pacers,99
+400578452,2015-11-19,Indiana Pacers,88,Charlotte,86
+400578476,2015-11-22,Indiana Pacers,83,Phoenix,106
+400578495,2015-11-24,Dallas,100,Indiana Pacers,111
+400578512,2015-11-26,San Antonio,106,Indiana Pacers,100
+400578522,2015-11-28,Indiana Pacers,98,Orlando,83
+400578530,2015-11-29,Cleveland,109,Indiana Pacers,97
+400578552,2015-12-02,Phoenix,116,Indiana Pacers,99
+400578566,2015-12-04,Portland,88,Indiana Pacers,82
+400578579,2015-12-05,Sacramento,102,Indiana Pacers,101
+400578593,2015-12-08,Indiana Pacers,92,Atlanta,108
+400578609,2015-12-10,Indiana Pacers,96,Los Angeles,103
+400578625,2015-12-12,Toronto,106,Indiana Pacers,94
+400578634,2015-12-13,Indiana Pacers,85,Portland,95
+400578648,2015-12-15,Indiana Pacers,110,Los Angeles,91
+400578669,2015-12-17,Los Angeles,102,Indiana Pacers,100
+400578690,2015-12-20,Denver,76,Indiana Pacers,73
+400578699,2015-12-21,Minnesota,96,Indiana Pacers,100
+400578709,2015-12-23,Indiana Pacers,96,New Orleans,84
+400578727,2015-12-26,Detroit,119,Indiana Pacers,109
+400578740,2015-12-27,Brooklyn,85,Indiana Pacers,110
+400578752,2015-12-29,Indiana Pacers,90,Chicago,92
+400578768,2015-12-31,Indiana Pacers,106,Miami,95
+400578296,2015-10-29,Charlotte,108,Milwaukee Bucks,106
+400578315,2015-10-31,Milwaukee Bucks,93,Philadelphia,81
+400578323,2015-11-01,Washington,108,Milwaukee Bucks,97
+400578341,2015-11-04,Indiana,81,Milwaukee Bucks,87
+400578354,2015-11-05,Milwaukee Bucks,86,Chicago,95
+400578368,2015-11-07,Detroit,98,Milwaukee Bucks,95
+400578380,2015-11-08,Milwaukee Bucks,93,Memphis,92
+400578397,2015-11-11,Milwaukee Bucks,85,Oklahoma City,78
+400578415,2015-11-14,Orlando,101,Milwaukee Bucks,85
+400578435,2015-11-16,Miami,84,Milwaukee Bucks,91
+400578448,2015-11-18,Milwaukee Bucks,117,NY Knicks,113
+400578456,2015-11-19,Brooklyn,118,Milwaukee Bucks,122
+400578467,2015-11-21,Toronto,124,Milwaukee Bucks,82
+400578482,2015-11-22,Milwaukee Bucks,100,Washington,111
+400578499,2015-11-25,Milwaukee Bucks,98,Detroit,86
+400578510,2015-11-26,Minnesota,86,Milwaukee Bucks,103
+400578518,2015-11-28,Detroit,88,Milwaukee Bucks,104
+400578532,2015-11-29,Milwaukee Bucks,103,Houston,117
+400578545,2015-12-02,Cleveland,111,Milwaukee Bucks,108
+400578561,2015-12-03,Milwaukee Bucks,105,Dallas,107
+400578577,2015-12-05,Milwaukee Bucks,109,Miami,85
+400578590,2015-12-07,Dallas,125,Milwaukee Bucks,102
+400578604,2015-12-09,Oklahoma City,114,Milwaukee Bucks,101
+400578636,2015-12-13,Milwaukee Bucks,111,Los Angeles,106
+400578652,2015-12-15,Phoenix,94,Milwaukee Bucks,96
+400578668,2015-12-17,Portland,104,Milwaukee Bucks,97
+400578673,2015-12-18,Sacramento,107,Milwaukee Bucks,108
+400578691,2015-12-20,Los Angeles,106,Milwaukee Bucks,102
+400578715,2015-12-23,Milwaukee Bucks,101,Charlotte,108
+400578726,2015-12-26,Atlanta,77,Milwaukee Bucks,107
+400578741,2015-12-27,Milwaukee Bucks,85,Atlanta,90
+400578751,2015-12-29,Charlotte,94,Milwaukee Bucks,104
+400578771,2015-12-31,Cleveland,80,Milwaukee Bucks,96
+400578294,2015-10-28,San Antonio,101,Dallas Mavericks,100
+400578311,2015-10-30,Dallas Mavericks,120,Utah,102
+400578319,2015-11-01,New Orleans,104,Dallas Mavericks,109
+400578338,2015-11-03,Dallas Mavericks,118,Boston,113
+400578362,2015-11-06,Portland,108,Dallas Mavericks,87
+400578372,2015-11-07,Utah,82,Dallas Mavericks,105
+400578386,2015-11-09,Dallas Mavericks,96,Miami,105
+400578398,2015-11-11,Dallas Mavericks,106,Sacramento,98
+400578412,2015-11-13,Dallas Mavericks,123,Philadelphia,70
+400578429,2015-11-15,Dallas Mavericks,131,Minnesota,117
+400578438,2015-11-17,Charlotte,80,Dallas Mavericks,107
+400578455,2015-11-19,Washington,102,Dallas Mavericks,105
+400578472,2015-11-21,Dallas Mavericks,140,Los Angeles,106
+400578480,2015-11-22,Houston,95,Dallas Mavericks,92
+400578495,2015-11-24,Dallas Mavericks,100,Indiana,111
+400578506,2015-11-26,Dallas Mavericks,109,NY Knicks,102
+400578519,2015-11-28,Toronto,102,Dallas Mavericks,106
+400578527,2015-11-29,Philadelphia,103,Dallas Mavericks,110
+400578549,2015-12-02,Chicago,129,Dallas Mavericks,132
+400578561,2015-12-03,Milwaukee,105,Dallas Mavericks,107
+400578576,2015-12-05,Dallas Mavericks,106,Phoenix,118
+400578590,2015-12-07,Dallas Mavericks,125,Milwaukee,102
+400578602,2015-12-09,Memphis,114,Dallas Mavericks,105
+400578615,2015-12-10,Dallas Mavericks,112,New Orleans,107
+400578632,2015-12-13,Dallas Mavericks,98,Golden State,105
+400578659,2015-12-16,NY Knicks,87,Dallas Mavericks,107
+400578664,2015-12-17,Detroit,106,Dallas Mavericks,117
+400578689,2015-12-20,Dallas Mavericks,99,San Antonio,93
+400578705,2015-12-22,Dallas Mavericks,102,Atlanta,105
+400578717,2015-12-23,Phoenix,124,Dallas Mavericks,115
+400578731,2015-12-26,Dallas Mavericks,102,Los Angeles,98
+400578747,2015-12-28,Dallas Mavericks,112,Oklahoma City,107
+400578762,2015-12-30,Dallas Mavericks,114,Washington,87
+400578295,2015-10-28,Los Angeles,90,Houston Rockets,108
+400578304,2015-10-29,Utah,93,Houston Rockets,104
+400578326,2015-11-01,Houston Rockets,104,Boston,90
+400578335,2015-11-03,Philadelphia,93,Houston Rockets,104
+400578342,2015-11-04,Miami,91,Houston Rockets,108
+400578361,2015-11-06,Houston Rockets,98,San Antonio,81
+400578379,2015-11-08,Houston Rockets,87,Golden State,98
+400578409,2015-11-12,Minnesota,101,Houston Rockets,113
+400578419,2015-11-14,Houston Rockets,88,Philadelphia,87
+400578436,2015-11-16,Oklahoma City,65,Houston Rockets,69
+400578443,2015-11-17,Memphis,119,Houston Rockets,93
+400578461,2015-11-19,Houston Rockets,92,Los Angeles,98
+400578480,2015-11-22,Houston Rockets,95,Dallas,92
+400578494,2015-11-24,Houston Rockets,91,NY Knicks,86
+400578509,2015-11-26,Houston Rockets,102,Sacramento,89
+400578520,2015-11-28,Houston Rockets,85,Los Angeles,102
+400578532,2015-11-29,Milwaukee,103,Houston Rockets,117
+400578560,2015-12-03,Houston Rockets,105,Memphis,96
+400578575,2015-12-05,Minnesota,112,Houston Rockets,114
+400578582,2015-12-06,Houston Rockets,100,Phoenix,95
+400578616,2015-12-10,Golden State,105,Houston Rockets,93
+400578619,2015-12-11,Sacramento,109,Houston Rockets,113
+400578638,2015-12-13,Houston Rockets,108,Denver,96
+400578670,2015-12-17,Denver,111,Houston Rockets,115
+400578672,2015-12-18,Houston Rockets,90,New Orleans,99
+400578688,2015-12-20,Houston Rockets,97,Atlanta,104
+400578703,2015-12-22,Houston Rockets,110,Portland,95
+400578728,2015-12-26,Memphis,111,Houston Rockets,117
+400578746,2015-12-28,San Antonio,110,Houston Rockets,106
+400578755,2015-12-29,Houston Rockets,103,Washington,104
+400578770,2015-12-31,Houston Rockets,102,Charlotte,83
+400578301,2015-10-29,Memphis Grizzlies,105,Minnesota,101
+400578313,2015-10-31,Indiana,89,Memphis Grizzlies,97
+400578320,2015-11-01,Charlotte,69,Memphis Grizzlies,71
+400578337,2015-11-03,Memphis Grizzlies,93,New Orleans,81
+400578357,2015-11-05,Phoenix,91,Memphis Grizzlies,102
+400578370,2015-11-07,Oklahoma City,89,Memphis Grizzlies,91
+400578380,2015-11-08,Milwaukee,93,Memphis Grizzlies,92
+400578396,2015-11-11,Memphis Grizzlies,107,Los Angeles,102
+400578410,2015-11-13,Memphis Grizzlies,111,Sacramento,110
+400578428,2015-11-15,Memphis Grizzlies,95,Detroit,88
+400578443,2015-11-17,Memphis Grizzlies,119,Houston,93
+400578458,2015-11-19,Toronto,96,Memphis Grizzlies,92
+400578468,2015-11-21,Memphis Grizzlies,117,Boston,100
+400578485,2015-11-23,Memphis Grizzlies,107,Los Angeles,91
+400578514,2015-11-26,Los Angeles,93,Memphis Grizzlies,99
+400578525,2015-11-28,Portland,99,Memphis Grizzlies,112
+400578536,2015-11-30,Sacramento,85,Memphis Grizzlies,97
+400578560,2015-12-03,Houston,105,Memphis Grizzlies,96
+400578574,2015-12-05,Memphis Grizzlies,101,San Antonio,107
+400578588,2015-12-07,Memphis Grizzlies,103,Miami,87
+400578602,2015-12-09,Memphis Grizzlies,114,Dallas,105
+400578626,2015-12-12,Memphis Grizzlies,113,Charlotte,107
+400578637,2015-12-13,Philadelphia,115,Memphis Grizzlies,120
+400578657,2015-12-16,Memphis Grizzlies,105,Golden State,98
+400578667,2015-12-17,San Antonio,116,Memphis Grizzlies,117
+400578681,2015-12-19,Memphis Grizzlies,97,Chicago,103
+400578693,2015-12-21,Cleveland,105,Memphis Grizzlies,91
+400578704,2015-12-22,Memphis Grizzlies,91,Utah,97
+400578728,2015-12-26,Memphis Grizzlies,111,Houston,117
+400578738,2015-12-27,Miami,95,Memphis Grizzlies,103
+400578760,2015-12-30,Memphis Grizzlies,95,San Antonio,87
+400578293,2015-10-28,New Orleans Pelicans,101,Orlando,84
+400578319,2015-11-01,New Orleans Pelicans,104,Dallas,109
+400578337,2015-11-03,Memphis,93,New Orleans Pelicans,81
+400578346,2015-11-04,New Orleans Pelicans,100,Charlotte,91
+400578381,2015-11-08,San Antonio,99,New Orleans Pelicans,100
+400578390,2015-11-10,Cleveland,118,New Orleans Pelicans,111
+400578406,2015-11-12,New Orleans Pelicans,109,Los Angeles,102
+400578420,2015-11-14,New Orleans Pelicans,139,Minnesota,91
+400578445,2015-11-17,Portland,102,New Orleans Pelicans,93
+400578450,2015-11-18,Sacramento,100,New Orleans Pelicans,106
+400578473,2015-11-21,Denver,117,New Orleans Pelicans,97
+400578484,2015-11-22,Utah,94,New Orleans Pelicans,106
+400578500,2015-11-25,New Orleans Pelicans,89,Sacramento,99
+400578517,2015-11-28,Atlanta,100,New Orleans Pelicans,91
+400578528,2015-11-29,Washington,83,New Orleans Pelicans,80
+400578550,2015-12-02,New Orleans Pelicans,112,Oklahoma City,104
+400578567,2015-12-04,Golden State,112,New Orleans Pelicans,85
+400578585,2015-12-06,Los Angeles,120,New Orleans Pelicans,100
+400578592,2015-12-07,Los Angeles,87,New Orleans Pelicans,104
+400578603,2015-12-09,New Orleans Pelicans,104,NY Knicks,93
+400578615,2015-12-10,Dallas,112,New Orleans Pelicans,107
+400578628,2015-12-12,New Orleans Pelicans,119,Cleveland,114
+400578640,2015-12-14,New Orleans Pelicans,122,Golden State,128
+400578658,2015-12-16,New Orleans Pelicans,119,Utah,111
+400578672,2015-12-18,Houston,90,New Orleans Pelicans,99
+400578686,2015-12-20,New Orleans Pelicans,88,Portland,114
+400578700,2015-12-21,Oklahoma City,99,New Orleans Pelicans,101
+400578709,2015-12-23,Indiana,96,New Orleans Pelicans,84
+400578729,2015-12-26,New Orleans Pelicans,97,San Antonio,90
+400578739,2015-12-27,Chicago,107,New Orleans Pelicans,100
+400578761,2015-12-30,New Orleans Pelicans,110,Phoenix,106
+400578773,2015-12-31,San Antonio,95,New Orleans Pelicans,93
+400578294,2015-10-28,San Antonio Spurs,101,Dallas,100
+400578316,2015-10-31,Phoenix,94,San Antonio Spurs,89
+400578356,2015-11-05,San Antonio Spurs,94,Atlanta,92
+400578361,2015-11-06,Houston,98,San Antonio Spurs,81
+400578381,2015-11-08,San Antonio Spurs,99,New Orleans,100
+400578394,2015-11-10,Los Angeles,85,San Antonio Spurs,89
+400578400,2015-11-11,Golden State,100,San Antonio Spurs,113
+400578423,2015-11-14,Los Angeles,80,San Antonio Spurs,93
+400578431,2015-11-15,Sacramento,94,San Antonio Spurs,91
+400578444,2015-11-17,San Antonio Spurs,100,Philadelphia,75
+400578451,2015-11-19,Cleveland,90,San Antonio Spurs,92
+400578469,2015-11-21,Minnesota,92,San Antonio Spurs,121
+400578483,2015-11-22,San Antonio Spurs,99,Brooklyn,87
+400578512,2015-11-26,San Antonio Spurs,106,Indiana,100
+400578523,2015-11-28,San Antonio Spurs,112,Sacramento,104
+400578533,2015-11-30,Boston,89,San Antonio Spurs,111
+400578541,2015-12-01,Philadelphia,103,San Antonio Spurs,109
+400578558,2015-12-03,Brooklyn,95,San Antonio Spurs,93
+400578574,2015-12-05,Memphis,101,San Antonio Spurs,107
+400578583,2015-12-06,San Antonio Spurs,123,Minnesota,101
+400578606,2015-12-09,Utah,100,San Antonio Spurs,96
+400578614,2015-12-10,San Antonio Spurs,109,NY Knicks,95
+400578631,2015-12-12,San Antonio Spurs,110,Los Angeles,112
+400578646,2015-12-14,Denver,91,San Antonio Spurs,99
+400578653,2015-12-15,Portland,108,San Antonio Spurs,95
+400578667,2015-12-17,San Antonio Spurs,116,Memphis,117
+400578682,2015-12-19,San Antonio Spurs,119,Portland,129
+400578689,2015-12-20,Dallas,99,San Antonio Spurs,93
+400578706,2015-12-22,San Antonio Spurs,125,Los Angeles,118
+400578720,2015-12-25,San Antonio Spurs,106,Oklahoma City,114
+400578729,2015-12-26,New Orleans,97,San Antonio Spurs,90
+400578746,2015-12-28,San Antonio Spurs,110,Houston,106
+400578760,2015-12-30,Memphis,95,San Antonio Spurs,87
+400578773,2015-12-31,San Antonio Spurs,95,New Orleans,93
+400578300,2015-10-29,Toronto,109,Atlanta Hawks,102
+400578324,2015-11-01,Atlanta Hawks,102,Indiana,92
+400578356,2015-11-05,San Antonio,94,Atlanta Hawks,92
+400578363,2015-11-07,Charlotte,122,Atlanta Hawks,119
+400578376,2015-11-08,Atlanta Hawks,103,NY Knicks,96
+400578392,2015-11-10,NY Knicks,85,Atlanta Hawks,91
+400578402,2015-11-12,Atlanta Hawks,100,Utah,97
+400578416,2015-11-14,Atlanta Hawks,114,Miami,103
+400578425,2015-11-15,Cleveland,127,Atlanta Hawks,94
+400578447,2015-11-18,Atlanta Hawks,109,Los Angeles,114
+400578466,2015-11-21,Atlanta Hawks,99,Detroit,89
+400578497,2015-11-25,Washington,102,Atlanta Hawks,106
+400578507,2015-11-26,Atlanta Hawks,115,Toronto,126
+400578517,2015-11-28,Atlanta Hawks,100,New Orleans,91
+400578529,2015-11-29,Atlanta Hawks,105,Charlotte,75
+400578546,2015-12-02,Atlanta Hawks,109,Boston,105
+400578559,2015-12-03,Miami,102,Atlanta Hawks,112
+400578572,2015-12-05,Brooklyn,75,Atlanta Hawks,98
+400578587,2015-12-07,Atlanta Hawks,96,Denver,84
+400578593,2015-12-08,Indiana,92,Atlanta Hawks,108
+400578611,2015-12-10,Atlanta Hawks,95,Philadelphia,79
+400578622,2015-12-12,Atlanta Hawks,87,Orlando,81
+400578635,2015-12-13,Orlando,100,Atlanta Hawks,99
+400578650,2015-12-15,Atlanta Hawks,93,Chicago,86
+400578662,2015-12-17,Cleveland,98,Atlanta Hawks,127
+400578688,2015-12-20,Houston,97,Atlanta Hawks,104
+400578705,2015-12-22,Dallas,102,Atlanta Hawks,105
+400578712,2015-12-23,Atlanta Hawks,107,Los Angeles,104
+400578726,2015-12-26,Atlanta Hawks,77,Milwaukee,107
+400578741,2015-12-27,Milwaukee,85,Atlanta Hawks,90
+400578758,2015-12-30,Atlanta Hawks,109,Cleveland,101
+400578296,2015-10-29,Charlotte Hornets,108,Milwaukee,106
+400578320,2015-11-01,Charlotte Hornets,69,Memphis,71
+400578333,2015-11-02,NY Knicks,96,Charlotte Hornets,93
+400578346,2015-11-04,New Orleans,100,Charlotte Hornets,91
+400578349,2015-11-05,Charlotte Hornets,96,Miami,89
+400578363,2015-11-07,Charlotte Hornets,122,Atlanta,119
+400578389,2015-11-09,Los Angeles,107,Charlotte Hornets,92
+400578399,2015-11-11,Portland,102,Charlotte Hornets,100
+400578422,2015-11-14,Phoenix,95,Charlotte Hornets,103
+400578432,2015-11-15,Golden State,112,Charlotte Hornets,87
+400578438,2015-11-17,Charlotte Hornets,80,Dallas,107
+400578452,2015-11-19,Indiana,88,Charlotte Hornets,86
+400578464,2015-11-21,Charlotte Hornets,100,Orlando,105
+400578487,2015-11-23,Miami,94,Charlotte Hornets,93
+400578490,2015-11-24,Charlotte Hornets,92,Los Angeles,113
+400578502,2015-11-26,Charlotte Hornets,97,Portland,105
+400578516,2015-11-28,Charlotte Hornets,101,Golden State,106
+400578529,2015-11-29,Atlanta,105,Charlotte Hornets,75
+400578555,2015-12-03,Charlotte Hornets,95,Chicago,102
+400578568,2015-12-05,Charlotte Hornets,103,NY Knicks,102
+400578608,2015-12-10,Charlotte Hornets,96,Boston,87
+400578626,2015-12-12,Memphis,113,Charlotte Hornets,107
+400578633,2015-12-13,Charlotte Hornets,87,Brooklyn,114
+400578647,2015-12-15,Cleveland,97,Charlotte Hornets,88
+400578661,2015-12-17,Charlotte Hornets,106,Phoenix,111
+400578676,2015-12-19,Philadelphia,91,Charlotte Hornets,109
+400578687,2015-12-20,Charlotte Hornets,104,Utah,86
+400578701,2015-12-22,Charlotte Hornets,110,Denver,82
+400578715,2015-12-23,Milwaukee,101,Charlotte Hornets,108
+400578730,2015-12-26,Oklahoma City,98,Charlotte Hornets,75
+400578736,2015-12-27,Charlotte Hornets,94,Orlando,102
+400578751,2015-12-29,Charlotte Hornets,94,Milwaukee,104
+400578770,2015-12-31,Houston,102,Charlotte Hornets,83
+400578299,2015-10-29,Miami Heat,107,Washington,95
+400578322,2015-11-01,Philadelphia,96,Miami Heat,114
+400578332,2015-11-02,Miami Heat,107,Toronto,102
+400578342,2015-11-04,Miami Heat,91,Houston,108
+400578349,2015-11-05,Charlotte,96,Miami Heat,89
+400578377,2015-11-08,Miami Heat,102,Minnesota,92
+400578386,2015-11-09,Dallas,96,Miami Heat,105
+400578404,2015-11-12,Miami Heat,75,Indiana,81
+400578416,2015-11-14,Atlanta,114,Miami Heat,103
+400578435,2015-11-16,Miami Heat,84,Milwaukee,91
+400578441,2015-11-17,Brooklyn,83,Miami Heat,95
+400578462,2015-11-20,Miami Heat,93,Los Angeles,110
+400578477,2015-11-22,Orlando,92,Miami Heat,99
+400578487,2015-11-23,Miami Heat,94,Charlotte,93
+400578498,2015-11-25,Miami Heat,97,Golden State,114
+400578537,2015-11-30,NY Knicks,79,Miami Heat,86
+400578542,2015-12-01,Washington,107,Miami Heat,86
+400578559,2015-12-03,Miami Heat,102,Atlanta,112
+400578577,2015-12-05,Milwaukee,109,Miami Heat,85
+400578588,2015-12-07,Memphis,103,Miami Heat,87
+400578605,2015-12-09,Phoenix,97,Miami Heat,103
+400578617,2015-12-10,Denver,102,Miami Heat,82
+400578630,2015-12-12,Utah,95,Miami Heat,100
+400578641,2015-12-14,Miami Heat,75,Chicago,93
+400578656,2015-12-16,Brooklyn,91,Miami Heat,95
+400578665,2015-12-17,Miami Heat,87,Utah,105
+400578680,2015-12-19,Miami Heat,103,Washington,105
+400578696,2015-12-21,Miami Heat,100,Boston,84
+400578714,2015-12-23,Miami Heat,87,Philadelphia,91
+400578721,2015-12-25,Miami Heat,101,Cleveland,91
+400578738,2015-12-27,Miami Heat,95,Memphis,103
+400578754,2015-12-29,Miami Heat,101,Orlando,102
+400578768,2015-12-31,Indiana,106,Miami Heat,95
+400578293,2015-10-28,New Orleans,101,Orlando Magic,84
+400578308,2015-10-30,Orlando Magic,98,Washington,105
+400578321,2015-11-01,Orlando Magic,95,Toronto,108
+400578345,2015-11-04,Chicago,98,Orlando Magic,90
+400578350,2015-11-05,Philadelphia,89,Orlando Magic,91
+400578364,2015-11-07,Orlando Magic,112,Minnesota,103
+400578382,2015-11-09,Brooklyn,104,Orlando Magic,96
+400578395,2015-11-11,Toronto,104,Orlando Magic,100
+400578405,2015-11-12,NY Knicks,95,Orlando Magic,97
+400578415,2015-11-14,Orlando Magic,101,Milwaukee,85
+400578424,2015-11-15,Washington,98,Orlando Magic,93
+400578442,2015-11-17,Detroit,93,Orlando Magic,107
+400578453,2015-11-19,Orlando Magic,90,Los Angeles,114
+400578464,2015-11-21,Charlotte,100,Orlando Magic,105
+400578477,2015-11-22,Orlando Magic,92,Miami,99
+400578491,2015-11-24,Cleveland,106,Orlando Magic,74
+400578504,2015-11-26,Orlando Magic,96,Golden State,111
+400578522,2015-11-28,Indiana,98,Orlando Magic,83
+400578538,2015-11-30,Phoenix,90,Orlando Magic,93
+400578554,2015-12-02,Golden State,98,Orlando Magic,97
+400578564,2015-12-03,Los Angeles,114,Orlando Magic,86
+400578578,2015-12-05,Utah,93,Orlando Magic,98
+400578584,2015-12-06,Sacramento,96,Orlando Magic,105
+400578610,2015-12-10,Orlando Magic,89,Washington,91
+400578622,2015-12-12,Atlanta,87,Orlando Magic,81
+400578635,2015-12-13,Orlando Magic,100,Atlanta,99
+400578651,2015-12-15,Toronto,95,Orlando Magic,82
+400578663,2015-12-17,Boston,109,Orlando Magic,92
+400578675,2015-12-19,Orlando Magic,94,Utah,101
+400578697,2015-12-21,Orlando Magic,88,Philadelphia,96
+400578710,2015-12-23,Orlando Magic,100,Boston,95
+400578725,2015-12-26,Orlando Magic,89,Cleveland,98
+400578736,2015-12-27,Charlotte,94,Orlando Magic,102
+400578754,2015-12-29,Miami,101,Orlando Magic,102
+400578757,2015-12-30,Orlando Magic,86,Detroit,109
+400578299,2015-10-29,Miami,107,Washington Wizards,95
+400578308,2015-10-30,Orlando,98,Washington Wizards,105
+400578323,2015-11-01,Washington Wizards,108,Milwaukee,97
+400578343,2015-11-04,NY Knicks,83,Washington Wizards,98
+400578355,2015-11-05,Washington Wizards,96,Indiana,94
+400578369,2015-11-07,Toronto,103,Washington Wizards,84
+400578375,2015-11-08,Indiana,90,Washington Wizards,97
+400578401,2015-11-12,Washington Wizards,107,Detroit,103
+400578424,2015-11-15,Washington Wizards,98,Orlando,93
+400578455,2015-11-19,Washington Wizards,102,Dallas,105
+400578471,2015-11-21,Washington Wizards,91,Cleveland,78
+400578482,2015-11-22,Milwaukee,100,Washington Wizards,111
+400578497,2015-11-25,Washington Wizards,102,Atlanta,106
+400578503,2015-11-26,Cleveland,113,Washington Wizards,87
+400578528,2015-11-29,Washington Wizards,83,New Orleans,80
+400578542,2015-12-01,Washington Wizards,107,Miami,86
+400578556,2015-12-03,Washington Wizards,111,Los Angeles,95
+400578570,2015-12-05,Washington Wizards,119,Denver,89
+400578586,2015-12-07,Boston,101,Washington Wizards,93
+400578594,2015-12-08,Washington Wizards,133,Boston,132
+400578610,2015-12-10,Orlando,89,Washington Wizards,91
+400578621,2015-12-12,Washington Wizards,104,Los Angeles,96
+400578642,2015-12-14,Washington Wizards,93,Utah,84
+400578655,2015-12-16,Washington Wizards,109,Minnesota,95
+400578680,2015-12-19,Miami,103,Washington Wizards,105
+400578698,2015-12-21,Washington Wizards,92,Phoenix,104
+400578711,2015-12-23,Washington Wizards,91,Chicago,99
+400578719,2015-12-25,NY Knicks,91,Washington Wizards,102
+400578737,2015-12-27,Washington Wizards,101,Boston,88
+400578755,2015-12-29,Houston,103,Washington Wizards,104
+400578762,2015-12-30,Dallas,114,Washington Wizards,87
+400578303,2015-10-29,Denver Nuggets,89,Detroit,79
+400578328,2015-11-01,Oklahoma City,102,Denver Nuggets,91
+400578339,2015-11-03,Denver Nuggets,105,Sacramento,110
+400578359,2015-11-05,Sacramento,131,Denver Nuggets,109
+400578373,2015-11-07,Denver Nuggets,101,Cleveland,110
+400578388,2015-11-09,Portland,116,Denver Nuggets,100
+400578407,2015-11-12,Denver Nuggets,113,Portland,130
+400578414,2015-11-14,Indiana,87,Denver Nuggets,108
+400578434,2015-11-16,NY Knicks,109,Denver Nuggets,93
+400578439,2015-11-17,Cleveland,97,Denver Nuggets,106
+400578460,2015-11-19,Denver Nuggets,107,Oklahoma City,100
+400578473,2015-11-21,Denver Nuggets,117,New Orleans,97
+400578489,2015-11-23,Los Angeles,94,Denver Nuggets,101
+400578501,2015-11-25,Denver Nuggets,114,Chicago,109
+400578513,2015-11-26,Phoenix,120,Denver Nuggets,112
+400578524,2015-11-28,Denver Nuggets,122,Phoenix,97
+400578543,2015-12-01,Utah,101,Denver Nuggets,103
+400578551,2015-12-02,Denver Nuggets,103,Portland,105
+400578570,2015-12-05,Washington,119,Denver Nuggets,89
+400578587,2015-12-07,Atlanta,96,Denver Nuggets,84
+400578596,2015-12-08,Toronto,112,Denver Nuggets,107
+400578617,2015-12-10,Denver Nuggets,102,Miami,82
+400578638,2015-12-13,Houston,108,Denver Nuggets,96
+400578646,2015-12-14,Denver Nuggets,91,San Antonio,99
+400578670,2015-12-17,Denver Nuggets,111,Houston,115
+400578683,2015-12-19,Denver Nuggets,109,Los Angeles,106
+400578690,2015-12-20,Denver Nuggets,76,Indiana,73
+400578701,2015-12-22,Charlotte,110,Denver Nuggets,82
+400578713,2015-12-23,Brooklyn,102,Denver Nuggets,96
+400578732,2015-12-26,Denver Nuggets,106,Minnesota,102
+400578749,2015-12-28,Denver Nuggets,102,Toronto,116
+400578763,2015-12-30,Denver Nuggets,103,Los Angeles,111
+400578301,2015-10-29,Memphis,105,Minnesota Timberwolves,101
+400578309,2015-10-30,Minnesota Timberwolves,97,Detroit,91
+400578327,2015-11-01,Minnesota Timberwolves,105,Chicago,106
+400578352,2015-11-05,Brooklyn,91,Minnesota Timberwolves,98
+400578364,2015-11-07,Orlando,112,Minnesota Timberwolves,103
+400578377,2015-11-08,Miami,102,Minnesota Timberwolves,92
+400578409,2015-11-12,Minnesota Timberwolves,101,Houston,113
+400578420,2015-11-14,New Orleans,139,Minnesota Timberwolves,91
+400578429,2015-11-15,Dallas,131,Minnesota Timberwolves,117
+400578459,2015-11-19,Minnesota Timberwolves,115,NY Knicks,99
+400578469,2015-11-21,Minnesota Timberwolves,92,San Antonio,121
+400578481,2015-11-22,Minnesota Timberwolves,101,Sacramento,113
+400578510,2015-11-26,Minnesota Timberwolves,86,Milwaukee,103
+400578526,2015-11-28,Los Angeles,119,Minnesota Timberwolves,120
+400578539,2015-11-30,Portland,107,Minnesota Timberwolves,93
+400578544,2015-12-01,Los Angeles,127,Minnesota Timberwolves,101
+400578562,2015-12-03,Minnesota Timberwolves,77,Philadelphia,85
+400578575,2015-12-05,Minnesota Timberwolves,112,Houston,114
+400578583,2015-12-06,San Antonio,123,Minnesota Timberwolves,101
+400578597,2015-12-08,Minnesota Timberwolves,86,Golden State,102
+400578613,2015-12-10,Minnesota Timberwolves,90,Portland,82
+400578627,2015-12-12,Minnesota Timberwolves,92,Oklahoma City,111
+400578643,2015-12-14,Minnesota Timberwolves,94,Los Angeles,100
+400578655,2015-12-16,Washington,109,Minnesota Timberwolves,95
+400578677,2015-12-19,Boston,114,Minnesota Timberwolves,98
+400578699,2015-12-21,Minnesota Timberwolves,96,Indiana,100
+400578708,2015-12-23,Cleveland,125,Minnesota Timberwolves,104
+400578732,2015-12-26,Denver,106,Minnesota Timberwolves,102
+400578744,2015-12-27,Golden State,110,Minnesota Timberwolves,97
+400578764,2015-12-30,Utah,100,Minnesota Timberwolves,94
+400578307,2015-10-29,Portland,106,Oklahoma City Thunder,89
+400578312,2015-10-30,Los Angeles,93,Oklahoma City Thunder,90
+400578328,2015-11-01,Oklahoma City Thunder,102,Denver,91
+400578336,2015-11-03,Brooklyn,116,Oklahoma City Thunder,85
+400578344,2015-11-04,Toronto,100,Oklahoma City Thunder,88
+400578370,2015-11-07,Oklahoma City Thunder,89,Memphis,91
+400578384,2015-11-09,Oklahoma City Thunder,101,Sacramento,93
+400578397,2015-11-11,Milwaukee,85,Oklahoma City Thunder,78
+400578403,2015-11-12,Boston,94,Oklahoma City Thunder,109
+400578421,2015-11-14,Oklahoma City Thunder,89,Detroit,96
+400578436,2015-11-16,Oklahoma City Thunder,65,Houston,69
+400578449,2015-11-18,Utah,98,Oklahoma City Thunder,81
+400578460,2015-11-19,Denver,107,Oklahoma City Thunder,100
+400578470,2015-11-21,Oklahoma City Thunder,92,Brooklyn,94
+400578488,2015-11-23,Oklahoma City Thunder,86,Golden State,91
+400578511,2015-11-26,Oklahoma City Thunder,97,Utah,82
+400578521,2015-11-28,Oklahoma City Thunder,105,NY Knicks,78
+400578550,2015-12-02,New Orleans,112,Oklahoma City Thunder,104
+400578569,2015-12-05,Philadelphia,91,Oklahoma City Thunder,103
+400578589,2015-12-07,Detroit,94,Oklahoma City Thunder,96
+400578604,2015-12-09,Oklahoma City Thunder,114,Milwaukee,101
+400578618,2015-12-11,Oklahoma City Thunder,103,Cleveland,94
+400578627,2015-12-12,Minnesota,92,Oklahoma City Thunder,111
+400578644,2015-12-14,Oklahoma City Thunder,112,Phoenix,88
+400578660,2015-12-16,Sacramento,92,Oklahoma City Thunder,104
+400578674,2015-12-18,Golden State,114,Oklahoma City Thunder,109
+400578684,2015-12-19,Los Angeles,103,Oklahoma City Thunder,104
+400578700,2015-12-21,Oklahoma City Thunder,99,New Orleans,101
+400578716,2015-12-23,Oklahoma City Thunder,111,Portland,115
+400578720,2015-12-25,San Antonio,106,Oklahoma City Thunder,114
+400578730,2015-12-26,Oklahoma City Thunder,98,Charlotte,75
+400578747,2015-12-28,Dallas,112,Oklahoma City Thunder,107
+400578772,2015-12-31,Oklahoma City Thunder,137,Phoenix,134
+400578307,2015-10-29,Portland Trail Blazers,106,Oklahoma City,89
+400578317,2015-10-31,Sacramento,103,Portland Trail Blazers,94
+400578334,2015-11-02,Portland Trail Blazers,90,Golden State,95
+400578347,2015-11-04,Portland Trail Blazers,101,Cleveland,82
+400578362,2015-11-06,Portland Trail Blazers,108,Dallas,87
+400578374,2015-11-08,Los Angeles,106,Portland Trail Blazers,102
+400578388,2015-11-09,Portland Trail Blazers,116,Denver,100
+400578399,2015-11-11,Portland Trail Blazers,102,Charlotte,100
+400578407,2015-11-12,Denver,113,Portland Trail Blazers,130
+400578430,2015-11-15,Portland Trail Blazers,97,Brooklyn,87
+400578445,2015-11-17,Portland Trail Blazers,102,New Orleans,93
+400578475,2015-11-21,Portland Trail Blazers,105,Chicago,87
+400578486,2015-11-23,Boston,88,Portland Trail Blazers,94
+400578492,2015-11-24,Philadelphia,104,Portland Trail Blazers,114
+400578502,2015-11-26,Charlotte,97,Portland Trail Blazers,105
+400578525,2015-11-28,Portland Trail Blazers,99,Memphis,112
+400578539,2015-11-30,Portland Trail Blazers,107,Minnesota,93
+400578551,2015-12-02,Denver,103,Portland Trail Blazers,105
+400578566,2015-12-04,Portland Trail Blazers,88,Indiana,82
+400578591,2015-12-07,NY Knicks,99,Portland Trail Blazers,103
+400578601,2015-12-09,Detroit,86,Portland Trail Blazers,98
+400578613,2015-12-10,Minnesota,90,Portland Trail Blazers,82
+400578620,2015-12-12,Chicago,115,Portland Trail Blazers,96
+400578634,2015-12-13,Indiana,85,Portland Trail Blazers,95
+400578653,2015-12-15,Portland Trail Blazers,108,San Antonio,95
+400578668,2015-12-17,Portland Trail Blazers,104,Milwaukee,97
+400578682,2015-12-19,San Antonio,119,Portland Trail Blazers,129
+400578686,2015-12-20,New Orleans,88,Portland Trail Blazers,114
+400578703,2015-12-22,Houston,110,Portland Trail Blazers,95
+400578716,2015-12-23,Oklahoma City,111,Portland Trail Blazers,115
+400578733,2015-12-26,Portland Trail Blazers,114,Philadelphia,93
+400578748,2015-12-28,Portland Trail Blazers,101,NY Knicks,79
+400578765,2015-12-30,Portland Trail Blazers,102,Toronto,97
+400578304,2015-10-29,Utah Jazz,93,Houston,104
+400578311,2015-10-30,Dallas,120,Utah Jazz,102
+400578329,2015-11-01,Utah Jazz,118,Phoenix,91
+400578340,2015-11-03,Los Angeles,107,Utah Jazz,101
+400578358,2015-11-05,Utah Jazz,102,Cleveland,100
+400578372,2015-11-07,Utah Jazz,82,Dallas,105
+400578383,2015-11-09,Detroit,96,Utah Jazz,97
+400578391,2015-11-10,Indiana,97,Utah Jazz,86
+400578402,2015-11-12,Atlanta,100,Utah Jazz,97
+400578418,2015-11-14,NY Knicks,100,Utah Jazz,102
+400578426,2015-11-15,Toronto,111,Utah Jazz,93
+400578449,2015-11-18,Utah Jazz,98,Oklahoma City,81
+400578474,2015-11-21,Golden State,101,Utah Jazz,88
+400578484,2015-11-22,Utah Jazz,94,New Orleans,106
+400578496,2015-11-24,Utah Jazz,95,Chicago,97
+400578511,2015-11-26,Oklahoma City,97,Utah Jazz,82
+400578531,2015-11-29,Utah Jazz,96,Los Angeles,112
+400578543,2015-12-01,Utah Jazz,101,Denver,103
+400578563,2015-12-03,Utah Jazz,104,Toronto,123
+400578578,2015-12-05,Utah Jazz,93,Orlando,98
+400578598,2015-12-08,Sacramento,101,Utah Jazz,92
+400578606,2015-12-09,Utah Jazz,100,San Antonio,96
+400578630,2015-12-12,Utah Jazz,95,Miami,100
+400578642,2015-12-14,Washington,93,Utah Jazz,84
+400578658,2015-12-16,New Orleans,119,Utah Jazz,111
+400578665,2015-12-17,Miami,87,Utah Jazz,105
+400578675,2015-12-19,Orlando,94,Utah Jazz,101
+400578687,2015-12-20,Charlotte,104,Utah Jazz,86
+400578704,2015-12-22,Memphis,91,Utah Jazz,97
+400578742,2015-12-27,Utah Jazz,88,Philadelphia,71
+400578756,2015-12-29,Los Angeles,101,Utah Jazz,97
+400578764,2015-12-30,Utah Jazz,100,Minnesota,94
